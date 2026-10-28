@@ -1,0 +1,11 @@
+{
+  "dataset": "GitSkills July 2026 sample",
+  "source_url": "https://raw.githubusercontent.com/giuseppedestefanis/gitskills-sample/fff3df93beeee51a5444450891751f143e38da3e/agent_skills_sample.zip",
+  "source_commit": "fff3df93beeee51a5444450891751f143e38da3e",
+  "archive_git_blob_sha1": "b2c5b19033285d2361a20df94d36e3eb922b6a1a",
+  "archive_sha256": "28a83ce750abde8fb904bc23191cb877a3645a1600eb326069fb2c18e7246fe8",
+  "archive_bytes": 86721947,
+  "database_sha256": "683888c923a51952fb66f83f21351ed5bf1127ddddf380e517592ae27c367658",
+  "database_bytes": 290955264,
+  "artifact_rows": 29786
+}

@@ -1,0 +1,2666 @@
+[
+  {
+    "cluster": 0,
+    "contents": 1800,
+    "metadata_terms": [
+      "content",
+      "capability",
+      "files",
+      "pdf",
+      "markdown",
+      "html",
+      "gsd",
+      "specialized",
+      "report",
+      "create",
+      "image",
+      "concepts"
+    ],
+    "body_terms": [
+      "pdf",
+      "content",
+      "images",
+      "text",
+      "scripts",
+      "self",
+      "markdown",
+      "concepts",
+      "image",
+      "gsd",
+      "png",
+      "slide"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00ec529013f78b2d746c7cc943212ba8db8a6a81",
+        "name": "skill-stocktake",
+        "description": "Codexのスキルとコマンドの品質を監査するためのツール。変更されたスキルのみを対象とした高速スキャンと、順次サブエージェントバッチ評価を使用した完全棚卸しモードをサポートする。",
+        "assignment_margin": 0.0035367113387598744
+      },
+      {
+        "selection": "representative",
+        "sha": "008127b63e324a15fc6f49dacbfb72ef9aa7eaeb",
+        "name": "xushikj-zhishiku",
+        "description": "叙事空间创作系统·知识库模块。执行步骤7：动态实体知识库管理。\n管理和演进基于 EX3 思想的知识库。\n",
+        "assignment_margin": 0.029025450604760025
+      },
+      {
+        "selection": "representative",
+        "sha": "00bbed890e420da7893f123cc014004726e96332",
+        "name": "共建恐惧等级表与启动分级暴露",
+        "description": "在系统脱敏第二阶段，咨询师与来访者协同构建具象化、可排序的1–7级社交恐惧反应层次表，并基于此开展首次低强度渐进式暴露练习；全程嵌入情绪监控表使用示范与主观体验校准，确保暴露过程可控、可停、重觉察而非消除。",
+        "assignment_margin": 0.04004484642874872
+      },
+      {
+        "selection": "representative",
+        "sha": "01a11ccb172097962799ee579597116bb36999be",
+        "name": "CBT自动思维识别与反应训练",
+        "description": "引导来访者使用标准认知工具识别并回应自动思维，以觉察功能不良认知和逻辑歪曲，从而减轻情绪症状。",
+        "assignment_margin": 0.038961663802619007
+      },
+      {
+        "selection": "representative",
+        "sha": "018fbac475f4b8175f584e6835d3bb36b2c02598",
+        "name": "rounds",
+        "description": "レビュー・トリアージ・対応・検証を複数ラウンド自動で繰り返し、対応すべき指摘がなくなるまで反復する",
+        "assignment_margin": 0.010690936706142852
+      },
+      {
+        "selection": "random",
+        "sha": "01510a092aff5700a0872724713cc16f7f3034c3",
+        "name": "schema-author",
+        "description": "Evolve your brain's schema pack. Add page types, propose new ones from corpus scans, backfill page.type on existing pages, audit pack health. Triggers when an agent notices untyped pages, custom domains needing typed entities (researcher, contract, deposition), or wants to see what types the pack declares.",
+        "assignment_margin": 0.02521298546327642
+      },
+      {
+        "selection": "random",
+        "sha": "00c03671e2115eb410e33e642e319fbf81470c05",
+        "name": "concept-extraction",
+        "description": "Extract key technical concepts from patent claims. Use when the user wants to identify the core inventive concepts or technical approaches in a patent.",
+        "assignment_margin": 0.02447958200134428
+      },
+      {
+        "selection": "random",
+        "sha": "0119d3a6bbd6cf6b225e958d86ad61f19355f6c4",
+        "name": "productionos-retro",
+        "description": "Retrospective workflow that summarizes what shipped, what broke, and what should improve next.",
+        "assignment_margin": 0.03145107344191518
+      },
+      {
+        "selection": "random",
+        "sha": "00273a156d501dc6cff527ee17e6ab2648498681",
+        "name": "screenwriter",
+        "description": "A skill-tool for screenwriters working on feature films or series. Use whenever the user wants to write a screenplay, develop scenes, beat sheets, dialogue, treatments, or character bibles — and also for revisions, screen-time estimates, length cuts, character work, world / mythology work, and causality / value-movement audits. The skill is built on three books — McKee's *Story*, Campbell's *The Hero with a Thousand Faces*, Aristotle's *Poetics*. Default output format is Markdown in Hollywood style. Supports bilingual screenplays (primary-language dialogue with parenthetical translation underneath). The skill is story-agnostic — the user brings their own story.",
+        "assignment_margin": 0.0558785920960317
+      },
+      {
+        "selection": "random",
+        "sha": "00be2f103ca64e571175564c8c87af91bdbc4157",
+        "name": "writing-skills",
+        "description": "Use when creating a new skill, editing an existing skill, or writing the agent/command that wraps one.",
+        "assignment_margin": 0.015680337829954958
+      },
+      {
+        "selection": "boundary",
+        "sha": "003e5a83501939ea7b15469ec67239693ea624b4",
+        "name": "nano-banana",
+        "description": "AI image generation using Nano Banana PRO (Gemini 3 Pro Image) and Nano Banana (Gemini 2.5 Flash Image). Use this skill when: (1) Generating images from text prompts, (2) Editing existing images, (3) Creating professional visual assets like infographics, logos, product shots, stickers, (4) Working with character consistency across multiple images, (5) Creating images with accurate text rendering, (6) Any task requiring AI-generated visuals. Triggers on: 'generate image', 'create image', 'make a picture', 'design a logo', 'create infographic', 'AI image', 'nano banana', or any image generation request.",
+        "assignment_margin": 0.0002035162532935894
+      }
+    ]
+  },
+  {
+    "cluster": 1,
+    "contents": 719,
+    "metadata_terms": [
+      "patterns",
+      "react",
+      "typescript",
+      "js",
+      "app",
+      "components",
+      "building",
+      "type",
+      "state",
+      "vue",
+      "handling",
+      "implementing"
+    ],
+    "body_terms": [
+      "const",
+      "typescript",
+      "string",
+      "react",
+      "async",
+      "return",
+      "await",
+      "ts",
+      "import",
+      "app",
+      "function",
+      "components"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "002ee9354c891af0cc0d067288cc6f712171c1e2",
+        "name": "libraries-dependencies-mastery",
+        "description": "Complete mastery of essential modern web development libraries and dependencies. Cover Next.js, React, TypeScript, Tailwind CSS, Firebase, Zustand, redux-toolkit, react-hook-form, Zod, shadcn/ui, lucide-react, Stripe, and more. Learn setup, integration patterns, advanced usage, performance optimization, troubleshooting, common pitfalls, and version management. Includes quick reference guides, in-depth tutorials, complete examples for e-commerce and SaaS, configuration files, type definitions, error handling, and production patterns. Master how libraries work together and solve real-world challenges.",
+        "assignment_margin": 0.19210703903304513
+      },
+      {
+        "selection": "representative",
+        "sha": "00a5edd2534f07263fcd711826f22687e720f479",
+        "name": "deno-fresh",
+        "description": "Use when working with Fresh framework, creating routes or handlers in Fresh, building web UIs with Preact, or adding Tailwind CSS in Deno. Covers Fresh 2.x project structure, route handlers, islands, createDefine, PageProps, context patterns, and Fresh 1.x to 2.x migration. Essential for any Fresh-related question.",
+        "assignment_margin": 0.17631352959971794
+      },
+      {
+        "selection": "representative",
+        "sha": "011caad0de5de5671bab108acb0cea1278269aac",
+        "name": "elysia",
+        "description": "## When to Use This Skill\n\nUse this skill whenever you need to work with **Elysia**, the high-performance web framework for Bun. Elysia is ergonomic, type-safe, and optimized for Bun with extensive TypeScript support.\n\n**Trigger this skill for:**\n- Building REST APIs, GraphQL servers, or WebSocket applications\n- Setting up authentication, validation, cookies, CORS, or middleware\n- Configuring routes, groups, guards, path parameters, or dynamic paths\n- Using plugins (Apollo, Yoga, Bearer, CORS, Cron, OpenAPI, etc.)\n- Implementing lifecycle hooks (onRequest, beforeHandle, afterHandle, etc.)\n- Type-safe client generation with Eden (Treaty, Fetch, Test)\n- Learning Elysia patterns: best practices, folder structure, MVC setup\n- Deployment strategies: binary compilation, Docker, Vercel, Railway, clustering\n- Integrating with databases, authentication frameworks, or services\n- Troubleshooting performance, typing issues, or configuration problems\n- Creating custom body parsers, error handlers, or macros\n- Testing Elysia applications with Bun Test and Eden\n\n**This skill is EXHAUSTIVE** — it covers every aspect of Elysia including all configuration options, all plugin APIs, all lifecycle hooks, all validation patterns, all HTTP methods, all status codes, all headers, all cookies, all error handling strategies, all deployment options, and all client patterns. Nothing is excluded.\n",
+        "assignment_margin": 0.12298209352704646
+      },
+      {
+        "selection": "representative",
+        "sha": "004c008b112d044937cb1482181a06cae02314f0",
+        "name": "svelte-builder",
+        "description": "Expert guidance for building applications with Svelte 5 and SvelteKit, covering runes reactivity, component patterns, stores, SSR/SSG, and production deployment.\nUse when the user asks about svelte builder, svelte builder best practices, or needs guidance on svelte builder implementation.\nDo NOT use when the user needs a different specialized skill or is asking about an unrelated technology domain.\n",
+        "assignment_margin": 0.16594589650111782
+      },
+      {
+        "selection": "representative",
+        "sha": "01b25b00ef03a5b07691e9016024b7f12893ef09",
+        "name": "react-typescript-patterns",
+        "description": "Deep reference for React/TypeScript patterns -- React 19 hooks, Vike SSR, component composition, type safety, testing with Vitest/RTL, accessibility, data fetching with TanStack Query, CodeMirror integration, and performance. Grounded in patterns from a production Vike + React 19 app.",
+        "assignment_margin": 0.2208397680026837
+      },
+      {
+        "selection": "random",
+        "sha": "01aa1dfa85c285e33dcd5c69d8fe6fabd1750d79",
+        "name": "nestjs",
+        "description": "Use when implementing NestJS controllers, services, modules, guards, interceptors, pipes, decorators, DI patterns, ConfigService, or lifecycle hooks.\n",
+        "assignment_margin": 0.16476701791125056
+      },
+      {
+        "selection": "random",
+        "sha": "0028346edf2909aa5864dfc708d3ced1d80a69e4",
+        "name": "swift-development",
+        "description": "Swift/SwiftUI iOS and macOS development — structure, patterns, best practices",
+        "assignment_margin": 0.08965368870677942
+      },
+      {
+        "selection": "random",
+        "sha": "00f033d964b5f7ef3283dc83745ff0df70e6f320",
+        "name": "upstash-vector-js",
+        "description": "Skills for Upstash Vector features, TypeScript/JavaScript SDK usage, and integrations. Use when users ask how to work with Vector, its TS SDK, features, or supported frameworks.",
+        "assignment_margin": 0.09044704883932538
+      },
+      {
+        "selection": "random",
+        "sha": "01543ce56fce0fd6676660083d323b61fab02e5f",
+        "name": "core-primitives",
+        "description": "Catalog of the shared DSP primitives in core/include/factory_core/ for this repo. Use when designing/implementing DSP for a plugin, to pick existing primitives to compose instead of reinventing them or grepping every header. Also covers the rules for adding/changing core headers.",
+        "assignment_margin": 0.02803649748473986
+      },
+      {
+        "selection": "random",
+        "sha": "014c9d29cce4fc38635a2214f895f3a9ff173480",
+        "name": "stripe-integration",
+        "description": "Implements Stripe payments correctly the first time. Handles checkout sessions, webhooks, subscriptions, and customer management following Stripe best practices.",
+        "assignment_margin": 0.04095901126995577
+      },
+      {
+        "selection": "boundary",
+        "sha": "00639732090dfa3e5a65606e8bec7ee1445d3418",
+        "name": "tw-sample",
+        "description": "Native TraceWeaver wrapper and authority-control sample fixture.",
+        "assignment_margin": 0.0009492351741741577
+      }
+    ]
+  },
+  {
+    "cluster": 2,
+    "contents": 662,
+    "metadata_terms": [
+      "search",
+      "cli",
+      "web",
+      "email",
+      "browser",
+      "manage",
+      "send",
+      "list",
+      "google",
+      "slack",
+      "read",
+      "calendar"
+    ],
+    "body_terms": [
+      "search",
+      "bash",
+      "cli",
+      "url",
+      "browser",
+      "json",
+      "id",
+      "list",
+      "com",
+      "send",
+      "query",
+      "email"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "011c7bac03e8d647f0531d5cc11a82ab5f6d097a",
+        "name": "netnewswire-cli",
+        "description": "Read, summarize, and search articles in NetNewsWire (the macOS RSS reader) from the command line via AppleScript. Use this skill whenever the user mentions NetNewsWire, NNW, RSS feeds on a Mac, daily news digests from their reader, or summarizing today's articles. Also use when the user asks to \"summarize my feeds\", \"what's new in my RSS\", or \"give me a digest\" — even if they don't say \"NetNewsWire\" explicitly, this is the right tool when the source is a local Mac RSS reader. Do not use for fetching arbitrary RSS feeds from the open web (use a feed parser for that), and do not use on non-macOS systems.",
+        "assignment_margin": 0.17693721927850192
+      },
+      {
+        "selection": "representative",
+        "sha": "00552c0b66685556ccaa6699f8556e31bfd440d1",
+        "name": "makex",
+        "description": "MakeX",
+        "assignment_margin": 0.07814239834640846
+      },
+      {
+        "selection": "representative",
+        "sha": "00ef5ed5e4e6072c1b6c765d06e964cd327a919e",
+        "name": "slack-personal",
+        "description": "Read, send, search, and manage Slack messages and DMs via the slk CLI. Supports multiple workspaces with switching. Use when the user asks to check Slack, read channels or DMs, send Slack messages, search Slack, check unreads, manage drafts, view saved items, switch Slack workspaces, or interact with Slack workspace. Also use for heartbeat Slack checks. Triggers on \"check slack\", \"any slack messages\", \"send on slack\", \"slack unreads\", \"search slack\", \"slack threads\", \"draft on slack\", \"read slack dms\", \"message on slack\", \"switch workspace\", \"slack workspaces\".",
+        "assignment_margin": 0.20269211158971678
+      },
+      {
+        "selection": "representative",
+        "sha": "0059939531b680ab0fe8151178235b9eda15468b",
+        "name": "agent-channeltalk",
+        "description": "Interact with Channel Talk using extracted desktop app or browser credentials - read chats, send messages, search messages, manage groups",
+        "assignment_margin": 0.17057672270962948
+      },
+      {
+        "selection": "representative",
+        "sha": "0181dff79c7071653ab3ada991eb94fa7b3cda72",
+        "name": "clinkding",
+        "description": "Manage linkding bookmarks - save URLs, search, tag, organize, and retrieve your personal bookmark collection. Use when the user wants to save links, search bookmarks, manage tags, or organize their reading list.",
+        "assignment_margin": 0.17469223441587722
+      },
+      {
+        "selection": "random",
+        "sha": "00d8fe9e06f494d4fd886ca239ec63d688240a7b",
+        "name": "compliance-theater",
+        "description": "Use Compliance Theater 2000 for education compliance case-file, policy, evidence, memory, and workspace tasks. Trigger when the user mentions Compliance Theater, case files, case documents, policy search, compliance evidence, violations, key points, calls to action, responsive actions, case notes, case workspaces, or plugin authentication/status.",
+        "assignment_margin": 0.005427961103869143
+      },
+      {
+        "selection": "random",
+        "sha": "0170fc8b2126b50bd13bac9e989130e335e3dd48",
+        "name": "openclaw",
+        "description": "Trade tokens on TON blockchain via open4dev contracts. Deploy a W5 wallet from mnemonic, topup with TON, buy/sell tokens (TON/USDT, NOT/USDT, BUILD/USDT, etc.), manage orders, check balances, and view leaderboard standings. Agents can auto-decide price based on live order book data.\n",
+        "assignment_margin": 0.015364220608488549
+      },
+      {
+        "selection": "random",
+        "sha": "00c1cd7bab82401706640ada4f36beea2e20a6d2",
+        "name": "cli-teams",
+        "description": "[OMCP] CLI-team runtime for claude, codex, or gemini workers in tmux panes when you need process-based parallel execution",
+        "assignment_margin": 0.026697965759756925
+      },
+      {
+        "selection": "random",
+        "sha": "009a8a5e89de8b434f1c94c703abd830cff3ae63",
+        "name": "simulator-boot",
+        "description": "This skill should be used when the user asks to \"boot simulator\", \"start simulator\", \"launch simulator\", \"shutdown simulator\", \"stop simulator\", \"restart simulator\", \"シミュレータを起動\", \"シミュレータを終了\", \"シミュレータを再起動\", or needs to control the running state of iOS/watchOS/tvOS/visionOS simulators.",
+        "assignment_margin": 0.0022316889777890627
+      },
+      {
+        "selection": "random",
+        "sha": "0045aa267ec9f6b298fa62af979b57052653ed94",
+        "name": "lark-event",
+        "description": "Lark/Feishu real-time event listening / subscribing / consuming: stream events as NDJSON via `lark-cli event consume <EventKey>` (covers IM messages/reactions/chat changes, Task updates, VC meeting started/joined/ended, Minutes generated, Whiteboard updated, etc.). Use for Lark bots, real-time message processing, long-running subscribers, streaming webhook/push handlers. Supports `--max-events` / `--timeout` bounded runs and a stderr ready-marker contract — designed for AI agents running as subprocesses.",
+        "assignment_margin": 0.06749385161666609
+      },
+      {
+        "selection": "boundary",
+        "sha": "00188bf11ea94c36fb9f88ef4151de00298d309d",
+        "name": "consensus-interact",
+        "description": "Operate consensus.tools end-to-end (post jobs, create submissions, cast votes, resolve results) using either a local-first board or a hosted board (depending on how you run it). Hosted boards are optional and coming soon.",
+        "assignment_margin": 0.0004007103143870632
+      }
+    ]
+  },
+  {
+    "cluster": 3,
+    "contents": 634,
+    "metadata_terms": [
+      "deploy",
+      "deployment",
+      "setup",
+      "ci",
+      "docker",
+      "cloud",
+      "aws",
+      "environment",
+      "service",
+      "cd",
+      "azure",
+      "ci cd"
+    ],
+    "body_terms": [
+      "deploy",
+      "docker",
+      "env",
+      "service",
+      "deployment",
+      "environment",
+      "aws",
+      "logs",
+      "install",
+      "configure",
+      "configuration",
+      "version"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00765754b9405cae20baec6e2bc4578a25488eb1",
+        "name": "deploying-honeytokens-and-canarytokens",
+        "description": "Plant canarytokens and honey credentials and alert on breach.",
+        "assignment_margin": 0.18407065836528846
+      },
+      {
+        "selection": "representative",
+        "sha": "012c9a7879935f816f9c1c4e89133a8180fe3447",
+        "name": "afrexai-self-hosting-mastery",
+        "description": "Complete self-hosting and homelab operating system. Deploy, secure, monitor, and maintain self-hosted services with production-grade reliability. Use when setting up home servers, Docker infrastructure, reverse proxies, backups, monitoring, or evaluating self-hosted alternatives to SaaS.",
+        "assignment_margin": 0.21538299370918
+      },
+      {
+        "selection": "representative",
+        "sha": "003e6054865656c815473c627aedeab77d99282f",
+        "name": "wstg-conf-05",
+        "description": "Enumerate Infrastructure and Application Admin Interfaces",
+        "assignment_margin": 0.15642718896103272
+      },
+      {
+        "selection": "representative",
+        "sha": "0097e67abe995955d29e5067ac89eaa6fecd53fa",
+        "name": "expanso-kafka-to-s3",
+        "description": "Stream Kafka topics to S3 with partitioning and batching",
+        "assignment_margin": 0.18692149769963973
+      },
+      {
+        "selection": "representative",
+        "sha": "0046364b9c5c263cf7c2179dea126a2a8805e0b3",
+        "name": "oci-functions-deploy",
+        "description": "Build, configure, scaffold, and deploy OCI Functions from a local machine using a dependency-first, Fn-context-guided flow with argv-safe mutation execution, nonce-scoped confirmations, and a canonical lowercase machine-readable contract. Use when asked to validate/install Fn, OCI CLI, and Docker, configure or create Fn contexts, validate OCI session and Docker registry auth from Fn context values, choose or create a Functions application, scaffold Java, Python, or Node functions, and deploy them. Network creation is supported only as an explicit advanced branch.",
+        "assignment_margin": 0.14745781297480132
+      },
+      {
+        "selection": "random",
+        "sha": "00dad8a2a59ca02ac9f301ad1908cb1e4b11fb5e",
+        "name": "ops",
+        "description": "Operations runbook for the agentic-banking-ecosystem repo. USE THIS SKILL when the user asks to deploy, build, provision, generate data, index, ingest, register, or clean up any part of the project — including infrastructure (azd), container images, Container Apps, the customer/product MCP servers, AI Search indexes, Foundry toolboxes, and the banking agents. Covers the full lifecycle: provision → generate data → build → deploy MCP → register toolboxes → index → ingest → deploy agents → clean up.\n",
+        "assignment_margin": 0.03572103653598639
+      },
+      {
+        "selection": "random",
+        "sha": "00581227d40f012234763ce6a78740e8e4e8735e",
+        "name": "openshift-service",
+        "description": "Service with OpenShift. services.",
+        "assignment_margin": 0.10975606904289716
+      },
+      {
+        "selection": "random",
+        "sha": "00b6a8c24da7eb33630e16d0238fcb6363b54d9e",
+        "name": "warren-nft",
+        "description": "Deploy NFT collections permanently on MegaETH mainnet. Images are stored on-chain via SSTORE2, then published through WarrenContainer and WarrenLaunchedNFT.",
+        "assignment_margin": 0.07849119157457814
+      },
+      {
+        "selection": "random",
+        "sha": "00b57202d82531bfef8a6ab3a170b22ee286bf23",
+        "name": "cloud-cost-optimizer",
+        "description": "Optimise les coûts cloud (Azure, AWS, GCP) avec workflow FinOps structuré — audit, right-sizing, réservations, Spot, stockage, scheduling, monitoring. Se déclenche avec \"coût cloud\", \"facture Azure\", \"AWS bill\", \"optimiser les coûts\", \"réduire la facture\", \"reserved instances\", \"FinOps\", \"cloud spending\".",
+        "assignment_margin": 0.11270993290629146
+      },
+      {
+        "selection": "random",
+        "sha": "015b6245525b1b883f25a8ac4facf0c40c92b820",
+        "name": "config-reviewer",
+        "description": "Review deploy/env/config diffs for hardcoded secrets, missing env vars, and deployment correctness (deploy/env/secrets/config paths only).",
+        "assignment_margin": 0.1164636917213149
+      },
+      {
+        "selection": "boundary",
+        "sha": "006a6819d2017767bda0ead242110d26b999d7e9",
+        "name": "grype-scanning",
+        "description": "Scans for vulnerabilities using Anchore Grype: `grype sbom:./sbom.json` / `grype <image>` / `grype dir:./` across OS-package + language-package ecosystems (Alpine / Debian / Ubuntu / RHEL / Amazon Linux / Ruby / Java / JavaScript / Python / .NET / Go / PHP / Rust). `.grype.yaml` per-CVE and per-package ignore rules with mandatory `expires:` dates and reachability justification (the Grype-native suppression path, distinct from standalone VEX document authoring in vex-author); EPSS + KEV + risk-score prioritization; OpenVEX assertion filtering; `--fail-on high/critical` CI gate. Use when the team wants Grype-native vuln scanning, or pairs with Syft (syft-generation) for an SBOM-driven workflow.",
+        "assignment_margin": 0.00017674656131245957
+      }
+    ]
+  },
+  {
+    "cluster": 4,
+    "contents": 617,
+    "metadata_terms": [
+      "strategy",
+      "product",
+      "market",
+      "risk",
+      "positioning",
+      "marketing",
+      "business",
+      "pricing",
+      "customer",
+      "sales",
+      "decision",
+      "strategic"
+    ],
+    "body_terms": [
+      "market",
+      "risk",
+      "product",
+      "price",
+      "customer",
+      "pricing",
+      "revenue",
+      "legal",
+      "growth",
+      "strategy",
+      "strategic",
+      "sales"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00a9f46211960eeef175e3fea04e58c710b97003",
+        "name": "negotiation-prep",
+        "description": "Seller prep for the commercial exchange — concessions ladder, BATNA, procurement tactics, closing checklist. Trigger: 'how do I negotiate', 'what can I give', 'procurement pushing back'. Numbers = quote-desk.",
+        "assignment_margin": 0.3273032769350237
+      },
+      {
+        "selection": "representative",
+        "sha": "0160dd9a0f887f0753f46a7e3d5e0f7f123b89c7",
+        "name": "business-partnership-navigator",
+        "description": "Complete framework for selecting business partners, structuring equity splits, drafting operating agreements, defining roles and decision rights, resolving conflicts, planning exits, and protecting the business and the relationship through every stage. Use when the user asks about business partnership navigator or needs help with related topics. Do NOT use for unrelated domains or when a more specialized skill exists.\n",
+        "assignment_margin": 0.26564942416303056
+      },
+      {
+        "selection": "representative",
+        "sha": "00cdf9b77cf54ff906ebb7183e072a4025bf3b02",
+        "name": "copywriting-squad-ben-settle",
+        "description": "Activate ben-settle from copywriting-squad squad. |",
+        "assignment_margin": 0.19586706914856417
+      },
+      {
+        "selection": "representative",
+        "sha": "008cee860cc3d83cab53756ad21919b664e749fa",
+        "name": "saas-objection-handling-and-competitive-displacement",
+        "description": "Use when a SaaS bid must answer price, risk, timeline, lock-in, sovereignty, adoption, or alternative-solution objections with evidence and trade discipline; use discovery when objections have not yet been validated with the buyer.",
+        "assignment_margin": 0.2733936620452499
+      },
+      {
+        "selection": "representative",
+        "sha": "0045b10347747c5194b0f872c721343c6c1a46a7",
+        "name": "compare-term-sheet-against-engagement-letter",
+        "description": "Comparing a transaction term sheet against an engagement letter to identify conflicts in collateral eligibility criteria, representations and warranties cure mechanics, repurchase price methodology, and ancillary provisions whose operational or legal consequences are not immediately apparent from the face of the documents.",
+        "assignment_margin": 0.2382386518971759
+      },
+      {
+        "selection": "random",
+        "sha": "0049fb31d4261c278f7880a571c624f7122690cc",
+        "name": "productize-features-reframing-and-projects-shape-up",
+        "description": "Features reframing and projects Shape Up. Use when the user needs a product workflow for technical related to features reframing and projects shape up. Trigger terms: product-strategy, shaping, scope-management, stakeholder-management, technical.",
+        "assignment_margin": 0.10453442861234033
+      },
+      {
+        "selection": "random",
+        "sha": "0179312ddc2c9f9d35cd19192535c3f73ca5ad80",
+        "name": "technical-momentum-indicators",
+        "description": "\"Implements rsi, macd, stochastic oscillators and momentum analysis for risk management and algorithmic trading execution.\"",
+        "assignment_margin": 0.07681656960827245
+      },
+      {
+        "selection": "random",
+        "sha": "0171f96f4bb827cb4a65d4e141d1a467c700136a",
+        "name": "socratic-tutor",
+        "description": "Prepares law students for class by quizzing them Socratically on assigned readings, cases, or topics. Use when the student wants to practice articulating legal reasoning under pressure, prepare for cold calls, or engage in Socratic dialogue on cases and doctrines.",
+        "assignment_margin": 0.05000964105070518
+      },
+      {
+        "selection": "random",
+        "sha": "0075c3e7b805166e3d2ec5a2dbd947700aa6b29e",
+        "name": "products-and-pricebooks",
+        "description": "Use when configuring the Salesforce product catalog and pricing structure: creating Product2 records, setting up Standard and custom Pricebooks, managing PricebookEntry junction records, enabling multi-currency pricing, configuring Product Schedules (Revenue and Quantity), or troubleshooting incorrect prices on Opportunity line items and Quotes. Triggers: 'add product to pricebook', 'pricebook entry', 'standard pricebook', 'product catalog', 'multi-currency product pricing', 'product schedule', 'revenue schedule', 'quantity schedule', 'deactivate product'. NOT for CPQ (Salesforce Revenue Cloud / SBQQ) product configuration, CPQ pricing rules, or CPQ bundle setup. NOT for Quote template layout or PDF generation.",
+        "assignment_margin": 0.1008998633745879
+      },
+      {
+        "selection": "random",
+        "sha": "0124bc7a00b3503b01128fe92a07ca8085512cac",
+        "name": "structuring-fund-of-funds-vehicles",
+        "description": "Designs fund-of-funds structures with layer-on-layer economics, allocation methodology, and portfolio construction guidelines. Use when structuring FoF vehicles, analyzing layered fee impact, or designing multi-manager programs.",
+        "assignment_margin": 0.1818543720242082
+      },
+      {
+        "selection": "boundary",
+        "sha": "0177799ce6b07933e9e20c6f2e6fa3272d0e63a7",
+        "name": "attack-surface-mapper",
+        "description": "Attack Surface Mapper skill for Creative Liberation Engine V6 batch 2.",
+        "assignment_margin": 0.0005192199313861232
+      }
+    ]
+  },
+  {
+    "cluster": 5,
+    "contents": 586,
+    "metadata_terms": [
+      "plan",
+      "spec",
+      "implementation",
+      "feature",
+      "requirements",
+      "plans",
+      "planning",
+      "design",
+      "specs",
+      "criteria",
+      "change",
+      "work"
+    ],
+    "body_terms": [
+      "plan",
+      "spec",
+      "implementation",
+      "acceptance",
+      "feature",
+      "criteria",
+      "questions",
+      "phase",
+      "specs",
+      "requirements",
+      "design",
+      "scope"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "0030599956ac0f83e3e8c7c92c4d23e54d2accbd",
+        "name": "speci5.plan",
+        "description": "Read a story spec and create a concrete implementation plan with tasks in .spec/features/<feature>/<story>/plan.md. Analyzes the codebase to produce specific, actionable tasks with file paths, function names, and unit test coverage aligned to the project tech stack. WHEN: /plan, create plan, plan story, break down story, implementation tasks, plan implementation, what to build. DO NOT USE FOR: brainstorming ideas (use brainstorm), writing specs (use specify), checking implementation (use check).",
+        "assignment_margin": 0.2646647093113475
+      },
+      {
+        "selection": "representative",
+        "sha": "00e486f0916c90dfe08f9c893be46b4dccf624dc",
+        "name": "spec-plan",
+        "description": "Turn ambiguous software requests into BDD-style implementation-ready specs with clear scope, constraints, assumptions, acceptance criteria, validation steps, execution guardrails, and an implementation plan. Use this whenever the user is defining requirements, asking for a plan or spec, wants boundaries clarified before coding, mentions acceptance criteria or BDD, or when coding would be risky without first making done explicit.",
+        "assignment_margin": 0.27354420211188324
+      },
+      {
+        "selection": "representative",
+        "sha": "019a6fefac7927419b67b9ee3529fae2ae9b11c7",
+        "name": "implementation-planning",
+        "description": "Break down specifications into executable implementation plans with TDD integration. Use when asked to \"create plan\", \"break down tasks\", \"implementation roadmap\", \"規劃實作\", \"拆解任務\", \"執行計畫\", or need step-by-step implementation guidance with test strategies and impact analysis. Use when asked to \"plan from spec\", \"spec to plan\", \"generate plan from requirements\".",
+        "assignment_margin": 0.2661640571224285
+      },
+      {
+        "selection": "representative",
+        "sha": "00ee83b5771340fa5f08b29df1f1f02274be1055",
+        "name": "plan-refiner",
+        "description": "Generate and iteratively refine implementation plans from an initial spec/prompt. Takes a specification as input, generates an initial plan, then refines it through multiple review passes (minimum 3) with fresh agent context. User can continue beyond 3 passes until satisfied. Use when turning requirements into polished implementation plans.",
+        "assignment_margin": 0.23754119556185405
+      },
+      {
+        "selection": "representative",
+        "sha": "015b71c6cdc19f2b6fcda07c781c88ca640102ed",
+        "name": "plan-eng-review",
+        "description": "Use when a written FeatureForge implementation plan from a CEO-approved spec needs engineering review before execution or when workflow/operator explicitly routes to late refresh-test-plan regeneration",
+        "assignment_margin": 0.17383724675351894
+      },
+      {
+        "selection": "random",
+        "sha": "0187b6a3715ce5345d8e6173aac1022612a8ae98",
+        "name": "plan",
+        "description": "啟動技術規劃流程。Tech Lead 讀取當前 sprint 的 spec issues，拆分為 task issues。觸發關鍵字：\"plan\", \"規劃\", \"拆分\", \"架構\"。",
+        "assignment_margin": 0.14862930724405277
+      },
+      {
+        "selection": "random",
+        "sha": "015cbc9a29e4949fea6b10fa539dee82bfd63be4",
+        "name": "Argentina",
+        "description": "Plan Argentina trips with region-specific routing, money strategy, seasonal timing, and practical travel logistics.",
+        "assignment_margin": 0.001896513769911343
+      },
+      {
+        "selection": "random",
+        "sha": "00be8c236be9f6a8023ff4993e632c6241e29d8a",
+        "name": "scope-work",
+        "description": "PLANNING SPINE STEP 1 of 3 — Scope the work: define what is in and out of scope and save as specs/product/SCOPE_LATEST.yaml. Use before slice-tasks or plan-release on any new initiative. Not a substitute for slice-tasks (step 2) or plan-work (step 3).",
+        "assignment_margin": 0.16083919994130183
+      },
+      {
+        "selection": "random",
+        "sha": "01a3901d4c93cd27268e9ecab8e5ab77dc1a1725",
+        "name": "implement",
+        "description": "Orchestrates implementation work through agent delegation and batch execution. Use for all implementation work — features, bug fixes, refactors, and code changes. Logs to the project journal and produces agent spawn plans and progress tracking. Not for shaping (use shape), breakdown (use breakdown), research, or review.",
+        "assignment_margin": 0.01512133743476816
+      },
+      {
+        "selection": "random",
+        "sha": "012ff70425757dff57d7473471df5905a6f41fd7",
+        "name": "sc-requirements-analyst",
+        "description": "Transform ambiguous project ideas into concrete specifications through systematic requirements discovery and structured analysis. Use when the user invokes @requirements-analyst or asks to turn a vague idea into a PRD, user stories, scope definition, or success metrics.",
+        "assignment_margin": 0.06316857828926375
+      },
+      {
+        "selection": "boundary",
+        "sha": "00fd754cda0cd2e99ef4bb35aadd281103106b09",
+        "name": "trellis-continue",
+        "description": "Resume work on the current task. Loads the workflow Phase Index, figures out which phase/step to pick up at, then pulls the step-level detail via get_context.py --mode phase. Use when coming back to an in-progress task and you need to know what to do next.",
+        "assignment_margin": 6.652423918949304e-05
+      }
+    ]
+  },
+  {
+    "cluster": 6,
+    "contents": 576,
+    "metadata_terms": [
+      "project",
+      "docs",
+      "documentation",
+      "md",
+      "update",
+      "new",
+      "codebase",
+      "repo",
+      "doc",
+      "structure",
+      "repository",
+      "readme"
+    ],
+    "body_terms": [
+      "project",
+      "docs",
+      "readme",
+      "documentation",
+      "update",
+      "doc",
+      "files",
+      "architecture",
+      "repo",
+      "existing",
+      "claude",
+      "directory"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00d47194f85e95a2bcfce65f606cf49de1e89601",
+        "name": "update-docs",
+        "description": "Documentation maintenance workflow for project agent guidance. Use after modifying code or project structure, when creating or updating AGENTS.md, or when documenting workflows, gotchas, project architecture, scope, objectives, and durable conventions.",
+        "assignment_margin": 0.24968831464754018
+      },
+      {
+        "selection": "representative",
+        "sha": "0019328f43cf2b3f50d1a8c39551592d2fa4ed66",
+        "name": "mxInitProject",
+        "description": "Use when the user says \"/mxInitProject\", \"bootstrap project\", \"init project\", \"setup ai config\", \"initialize claude config\", \"scaffold project\", or otherwise wants to bootstrap a new repository with the mxLore AI-documentation structure (CLAUDE.md, docs/ layout, optional MCP project registration). Idempotent — safe to re-run. Detects MCP mode vs local fallback. NEVER overwrites existing content.",
+        "assignment_margin": 0.20264027465758977
+      },
+      {
+        "selection": "representative",
+        "sha": "01257ef30a2df74e73a76423674a33ffebfca6e1",
+        "name": "repo-structure-normalizer",
+        "description": "Use when the user explicitly wants to standardize a project's non-code structure from either requirements-only documents or an existing codebase. Inspect the current workspace, then create or update README.md, structures.md, docs/ notes, and support directories without changing application code, tests, runtime settings, or moving code files.",
+        "assignment_margin": 0.11621183910433233
+      },
+      {
+        "selection": "representative",
+        "sha": "00a987308537880a15380ea97c4c71325eef6292",
+        "name": "docs",
+        "description": "Generate or update project documentation following the AI-DLC documentation standard. Creates README.md, CHANGELOG.md, SECURITY.md, and docs/manuals/ with audience-specific guides.",
+        "assignment_margin": 0.21674704309865983
+      },
+      {
+        "selection": "representative",
+        "sha": "00f6894c6dd0a0b50144b16cab0883081023d799",
+        "name": "docs-standardization",
+        "description": "Standardize project documentation with consistent docs/*.md file structures, templates, and best practices for maintaining high-quality technical documentation",
+        "assignment_margin": 0.19548164613485877
+      },
+      {
+        "selection": "random",
+        "sha": "000f419a4f8828bbe15a27cd737e5aa80b04ffd4",
+        "name": "cgr-docs-governance",
+        "description": "Use this skill when updating project documentation after backend/frontend operational changes, incidents, workflow behavior changes, or new runbooks.",
+        "assignment_margin": 0.161600783720993
+      },
+      {
+        "selection": "random",
+        "sha": "00db7a1d42ecc1345817b4c9e3b6c5b68d11314a",
+        "name": "iso-doc-generator",
+        "description": "Use this skill to generate or update ISO 29110 compliance documents (SI-02, PM-02, SI-04, PM-01). Trigger when asked to create release documentation, update sprint records, or prepare audit-ready compliance artifacts.",
+        "assignment_margin": 0.027260804709361246
+      },
+      {
+        "selection": "random",
+        "sha": "00eefa0bde674852d537a18a85df699d49b296be",
+        "name": "setup-workflow",
+        "description": "Initial setup workflow for claude-pilot plugin - directory creation, statusline configuration, documentation sync, GitHub star request",
+        "assignment_margin": 0.007679481479319658
+      },
+      {
+        "selection": "random",
+        "sha": "013e39a15675f6479f05102c3efd39c1936229ae",
+        "name": "tool-saasfoundry",
+        "description": "Use when the user wants to scaffold a new SaaSFoundry project, add or remove modules in an existing SaaSFoundry project, check project state or installed modules, file a module request, report a CLI or scaffold bug, or vote on community proposals. Triggers on keywords and phrases like \"saasfoundry\", \"sf new\", \"sf update\", \"scaffold a SaaS\", \"add a module\", \"update my SaaSFoundry project\", \".saasfoundry.json\", \"file a SaaSFoundry bug\", or \"vote on SaaSFoundry modules\". Always orchestrates the `sf` CLI in non-interactive mode — never runs the interactive Inquirer prompts itself.",
+        "assignment_margin": 0.08498402563114321
+      },
+      {
+        "selection": "random",
+        "sha": "003ee60c5f4e96b969165ebd8af847c83b560353",
+        "name": "tentacle-skills-washing",
+        "description": "Adapt, repair, and environment-proof Agent Skills so they run correctly in this vault. Use this skill when: (1) A downloaded or third-party skill needs to be installed/adapted to this vault's runtime (uv/bun), folder conventions, and path rules. (2) An existing skill fails or errors at runtime due to environment issues—wrong Python/TS runner, broken paths, missing inline dependencies, incorrect execution commands, or artefacts written to the wrong location. (3) A skill's shipped docs (AGENTS.md / SKILL.md) conflict with this vault's standards and need to be reconciled. \nTriggers: \"wash this skill\", \"fix this skill\", \"this skill is broken\", \"adapt skill from\", \"install skill\", \"skill throws an error\", \"skill can't find\", \"update skill to work here\".\n",
+        "assignment_margin": 0.04546681241210289
+      },
+      {
+        "selection": "boundary",
+        "sha": "016a289628385577f90f7f3be28eabd362ea3b8c",
+        "name": "blocklet-updater",
+        "description": "Creates a new release for a blocklet project by bumping version, building, and bundling. Use when asked to \"create a new release\", \"bump and bundle\", or \"update blocklet version\".",
+        "assignment_margin": 0.0012869815759125693
+      }
+    ]
+  },
+  {
+    "cluster": 7,
+    "contents": 458,
+    "metadata_terms": [
+      "code",
+      "claude",
+      "claude code",
+      "code quality",
+      "quality",
+      "refactoring",
+      "coding",
+      "writing",
+      "clean",
+      "standards",
+      "reviewing",
+      "codebase"
+    ],
+    "body_terms": [
+      "claude",
+      "functions",
+      "function",
+      "refactoring",
+      "files",
+      "tests",
+      "module",
+      "modules",
+      "comments",
+      "lines",
+      "refactor",
+      "imports"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00cd1b3374aeb41e3b796e51a8e5a5a7adcb0657",
+        "name": "code-simplifier",
+        "description": "Simplifies and refines code for clarity, consistency, and maintainability while preserving all functionality. Focuses on recently modified code unless instructed otherwise.",
+        "assignment_margin": 0.31031431024178696
+      },
+      {
+        "selection": "representative",
+        "sha": "0137e71f79c33fb20e020372c8d4a5a63dc32d3a",
+        "name": "crafting-code",
+        "description": "A coding standard for what good code is. Apply while writing or changing any code. Defines the blocking process gate, the four quality pillars, SOLID triggers (SRP/OCP/LSP/ISP/DIP — when to apply each, not definitions), and the embedded ponytail simplicity ladder. Intensity: lite | full | ultra (simplicity pillar only).",
+        "assignment_margin": 0.28631442782719524
+      },
+      {
+        "selection": "representative",
+        "sha": "0037b5879e7e09d2b0bb94595fe47007abc15f2b",
+        "name": "mk.ops",
+        "description": "My Kit standalone utilities — handles code audits.",
+        "assignment_margin": 0.27009671753760917
+      },
+      {
+        "selection": "representative",
+        "sha": "0018411c14eb96434d4524a3dee494a409385960",
+        "name": "SI-3_malicious-code-protection",
+        "description": "Implement [organization-defined] malicious code protection mechanisms at system entry and exit points to detect and eradicate malicious code;",
+        "assignment_margin": 0.27215106630175623
+      },
+      {
+        "selection": "representative",
+        "sha": "015a559f502d62ae2f1c351a7230fe902b8d3d46",
+        "name": "Code Explainer",
+        "description": "Explains code in plain English. Paste any code snippet and get a clear, detailed explanation of what it does, how it works, and why it's written that way. No tools required - pure LLM reasoning.",
+        "assignment_margin": 0.2508159789252994
+      },
+      {
+        "selection": "random",
+        "sha": "0197347cabf4e64efd831e3512b1b6588c88603c",
+        "name": "code-search",
+        "description": "Locate relevant code, definitions, usages, route handlers, and configuration references before reading or editing files.",
+        "assignment_margin": 0.15436078832022795
+      },
+      {
+        "selection": "random",
+        "sha": "00a6fffedce41dc348db49c8e79f2d9f612bc2db",
+        "name": "ux-visualizer",
+        "description": "Analyzes source code or requirements to generate high-fidelity screen and state transition diagrams. Specialized in SPA state mapping.",
+        "assignment_margin": 0.010408567740996173
+      },
+      {
+        "selection": "random",
+        "sha": "008d97456f33b4e8ae526c8e46533c6aab291dbf",
+        "name": "repo-forensics",
+        "description": "Use when you need this Cognitive OS skill: Deep forensic analysis of git repositories. Clones, analyzes ALL code, dependencies, architecture patterns, tools, features, API endpoints, and produces exhaustive structured reports. Optionally compares with Cognitive OS capabilities.; do not use when a narrower skill directly matches the task.",
+        "assignment_margin": 0.036969357880572214
+      },
+      {
+        "selection": "random",
+        "sha": "00b6e128d1c8fcc2533cde75bedfa5edaddc3525",
+        "name": "auditX",
+        "description": "Structured code audit workflow supporting both PRD-based and prompt-based evaluation modes. evaluatorX is a pure analyzer -reads dispatch-selected docs + code, outputs structured Evaluation Result Payload. Document writes are handled by Main Agent, not evaluatorX.\n",
+        "assignment_margin": 0.03664177276429949
+      },
+      {
+        "selection": "random",
+        "sha": "01a70c51c8a1e61effc32a43a6b805c95651fea9",
+        "name": "tlaplus-from-source",
+        "description": "Generate a high-level TLA+ model from source code (C, C++, Rust, etc.). Analyzes code to understand its purpose, creates abstractions, writes TLA+ specification, and proposes invariants and properties. Use when the user wants to model source code in TLA+, create a formal specification from implementation, or verify concurrent/distributed algorithms.",
+        "assignment_margin": 0.08796002946853218
+      },
+      {
+        "selection": "boundary",
+        "sha": "0034db3d87c67e742332e2794569c10b772e92c3",
+        "name": "react-doctor",
+        "description": "Use when finishing a feature, fixing a bug, before committing React code, or when the user types `/doctor`, asks to scan, triage, or clean up React diagnostics. Covers lint, accessibility, bundle size, architecture. Includes a regression check and a full local-triage workflow that fetches the canonical playbook.",
+        "assignment_margin": 0.00025815252800085614
+      }
+    ]
+  },
+  {
+    "cluster": 8,
+    "contents": 448,
+    "metadata_terms": [
+      "model",
+      "analysis",
+      "models",
+      "eval",
+      "training",
+      "learning",
+      "benchmark",
+      "asks evaluating",
+      "evaluating reports",
+      "ms",
+      "wants benchmark",
+      "llm"
+    ],
+    "body_terms": [
+      "model",
+      "models",
+      "training",
+      "python",
+      "analysis",
+      "evaluation",
+      "dataset",
+      "train",
+      "accuracy",
+      "compute",
+      "arxiv",
+      "predictions"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "019fc6c2aa68f9529dbdab65abf703493890e423",
+        "name": "机器学习模型训练",
+        "description": "当训练机器学习模型、优化超参数、评估模型性能、处理数据预处理或部署模型时，提供完整的机器学习工作流指导。",
+        "assignment_margin": 0.3238974319985383
+      },
+      {
+        "selection": "representative",
+        "sha": "019638ad9daa98d0ba8cec4f900235bfdbccf113",
+        "name": "bio-differential-expression-timeseries-de",
+        "description": "Analyzes time-series and longitudinal RNA-seq for differential expression and trajectory structure. Covers DESeq2 LRT with reduced models, time as factor vs continuous vs natural splines, maSigPro (Nueda 2014 for RNA-seq), ImpulseDE2 with explicit impulse-model failure modes, DREAM for repeated measures via linear mixed models, pseudoreplication avoidance, conditional vs marginal modeling, and trajectory clustering with DPGP, Mfuzz (with Schwämmle 2010 fuzzifier estimation), and splines+k-means. Use when modeling time-course or longitudinal expression, choosing factor vs spline, handling repeated measures from the same subject, avoiding pseudoreplication, clustering temporal trajectories, or selecting between dedicated time-course tools and pairwise+LRT.",
+        "assignment_margin": 0.20429843500101763
+      },
+      {
+        "selection": "representative",
+        "sha": "016505a5204a4ef6de8eab0c15ad3c2fded779da",
+        "name": "structural-similarity-calculation-fingerprint-based",
+        "description": "Use when you have a set of compounds (e.g., novel NPS analogues in an evaluation dataset) and need to classify them as structurally similar to or divergent from a reference set (e.g., training compounds).",
+        "assignment_margin": 0.2670157924444544
+      },
+      {
+        "selection": "representative",
+        "sha": "00d2b500436a1bacc759de1730b5aa4292020625",
+        "name": "torch",
+        "description": "PyTorch provides tensors with automatic differentiation plus neural network utilities for building and training models.",
+        "assignment_margin": 0.25985235649881744
+      },
+      {
+        "selection": "representative",
+        "sha": "0187879c295fda8596b429d39ca850b1fc763763",
+        "name": "mass-action-kinetics-formulation",
+        "description": "Use when you have intracellular metabolomics concentration measurements across multiple cell lines or conditions, a stoichiometric metabolic network model with reaction-metabolite associations, and you need to predict how differences in substrate availability (independent of enzyme expression).",
+        "assignment_margin": 0.258038922342237
+      },
+      {
+        "selection": "random",
+        "sha": "00d3c79673bf7492c0f36d09aaf596bef305bbba",
+        "name": "nemotron-super3",
+        "description": "Reference desk for NVIDIA Nemotron 3 Super — architecture, training data, recipes (pretrain/SFT/RL/eval/quantization), and deployment notes. Use when the user asks facts about Super3 rather than building a pipeline.",
+        "assignment_margin": 0.02245441616455564
+      },
+      {
+        "selection": "random",
+        "sha": "00984a3e41138a4eee123c83a223d79832400262",
+        "name": "fgs-dti-prediction-eval",
+        "description": "Evaluates a fine-grained selective similarity integration framework for drug-target interaction prediction. It tests the model's ability to dynamically weight multiple drug and target similarity views based on local interaction consistency to predict binary interaction labels. Use when the user wants to benchmark on Nuclear Receptors (NR), G-protein coupled receptors (GPCR), Ion Channel (IC), Enzyme (E), Luo, or asks about evaluating this task. Reports AUC.",
+        "assignment_margin": 0.14635381052325577
+      },
+      {
+        "selection": "random",
+        "sha": "00db195e182ff7d292a1dc029bff69975633159b",
+        "name": "deeptools",
+        "description": "NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS, peaks), for ChIP-seq, RNA-seq, ATAC-seq visualization.",
+        "assignment_margin": 0.17054810022285663
+      },
+      {
+        "selection": "random",
+        "sha": "01327f5f8f4719498975a18bc8f6291ce6d16b22",
+        "name": "llm-kv-cache-prefix-scoring",
+        "description": "Shares KV cache from a common prefix (context+question) across multiple answer suffixes for efficient multi-choice scoring.\n",
+        "assignment_margin": 0.06416542475715174
+      },
+      {
+        "selection": "random",
+        "sha": "0041a1faa4ad5914f6cdd703d6a2eff4444163ce",
+        "name": "naimark-qnn-measurement-circuits",
+        "description": "Quantum measurement circuit design comparing Naimark extension, hybrid Naimark-QNN, and fully QNN measurements for state discrimination. Use when: quantum measurement implementation, POVM circuits, minimum-error measurement, maximum-confidence measurement, quantum neural network measurements, Naimark extension circuits. Activation: naimark measurement, quantum measurement circuit, QNN measurement, POVM circuit, minimum-error measurement, maximum-confidence measurement, 量子测量电路",
+        "assignment_margin": 0.0747031464953634
+      },
+      {
+        "selection": "boundary",
+        "sha": "00f25e53b7970f49bee4c54c94d8430ea81e3095",
+        "name": "memory-recall",
+        "description": "Writes a fact to L1 working memory then recalls it. Demonstrates the L1/L2/L3 progressive memory model.",
+        "assignment_margin": 0.000641500498285023
+      }
+    ]
+  },
+  {
+    "cluster": 9,
+    "contents": 424,
+    "metadata_terms": [
+      "commit",
+      "git",
+      "pr",
+      "release",
+      "branch",
+      "commits",
+      "push",
+      "merge",
+      "changes",
+      "conventional",
+      "pull",
+      "github"
+    ],
+    "body_terms": [
+      "git",
+      "commit",
+      "branch",
+      "pr",
+      "push",
+      "commits",
+      "feat",
+      "gh",
+      "origin",
+      "diff",
+      "changes",
+      "fix"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "0110abe89c2bc4606cf6425c2d5cebd9dc767bbe",
+        "name": "git-workflow",
+        "description": "Git workflow rules for Renfield. Commit message format, issue numbering, branch naming, PR creation, documentation updates before push. Triggers on \"commit\", \"push\", \"PR erstellen\", \"pull request\", \"branch\", \"git\", \"merge\".",
+        "assignment_margin": 0.3364462888363828
+      },
+      {
+        "selection": "representative",
+        "sha": "008224c4644d89b5eeee5e12f1f76c8461efa1ff",
+        "name": "git-topic-commit-push",
+        "description": "Create one or more Git commits grouped by coherent change topic, then push the current branch. Use when the user asks to commit and push, submit by topic, split current changes into topical commits, or do \"按照主题提交 commit 并 push\"; especially when a worktree has mixed staged, unstaged, or untracked changes that need honest commit boundaries before `git push`. Commit messages must be written in Chinese unless the user explicitly requests another language.",
+        "assignment_margin": 0.30513480133537046
+      },
+      {
+        "selection": "representative",
+        "sha": "0014eb86511c49aab4d47a87fd9ce739766590f8",
+        "name": "github-workflow",
+        "description": "Git branching, commit, and push workflow for DOMINUS — personal domain investment tool. Trunk-based development, short-lived branches, Conventional Commits, single-dev flow. Always load this skill with /github-workflow before making changes.\n",
+        "assignment_margin": 0.2917803238165583
+      },
+      {
+        "selection": "representative",
+        "sha": "00fc9bf8eadd8f4d2f6ef483bf7f58a97454af8b",
+        "name": "git",
+        "description": "git workflows for agents: ship (stage → commit → push), worktree (parallel branches), hunks (selective staging). never force push, never git add -A, conventional commits. triggers on: commit, push, stage, ship, git add, worktree, hunks, selective staging.",
+        "assignment_margin": 0.30338560558893746
+      },
+      {
+        "selection": "representative",
+        "sha": "00ccb1de13457b5f1317489b09e3fceacdd9148a",
+        "name": "Git Expert",
+        "description": "Senior git & forge expert — repo bootstrap, feature branches, releases, recovery, forensics, multi-remote sync. Six modes: --init (bootstrap repo + remotes + hooks), --feature (branch + atomic commits + draft PR), --release (semver + changelog + signed tag), --recover (reflog rescue), --inspect (blame/pickaxe/bisect), --sync (multi-remote prune + mirror). Knows Gitea (tea) + GitHub (gh) + conventional commits + semver + Keep-a-Changelog.",
+        "assignment_margin": 0.29113976023709087
+      },
+      {
+        "selection": "random",
+        "sha": "0124bd5514e9330302a44bd8d50d0fd896bb72e5",
+        "name": "finishing-a-development-branch",
+        "description": "Use after implementation work is complete and verified. Presents safe options to merge, create a PR, keep, or discard the development branch/worktree.",
+        "assignment_margin": 0.12377935890088092
+      },
+      {
+        "selection": "random",
+        "sha": "0102988f88c1195c63cb0d2cc4d90cf312ae8ce5",
+        "name": "conventional-commits",
+        "description": "Format commit messages following the Conventional Commits specification: type, optional scope, and a concise description.\n",
+        "assignment_margin": 0.14862610031129528
+      },
+      {
+        "selection": "random",
+        "sha": "015a69c20ee182b75f50db1a38bf2f875cb7f740",
+        "name": "finishing-a-development-branch",
+        "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+        "assignment_margin": 0.08502431017755305
+      },
+      {
+        "selection": "random",
+        "sha": "00419b8f356db2a66b07372af59f5f4866e28ace",
+        "name": "commit",
+        "description": "Reviews working copy changes and drafts a concise 1-line commit message. Use when the user wants a commit message or asks to describe/commit changes.",
+        "assignment_margin": 0.14630474920522082
+      },
+      {
+        "selection": "random",
+        "sha": "00ad1eaafe859b865e0ccecf59a2d4c1c6c5c9a4",
+        "name": "finishing-a-development-branch",
+        "description": "Use this when you have completed some feature implementation and have written passing tests, and you are ready to create a PR.",
+        "assignment_margin": 0.06803314784720257
+      },
+      {
+        "selection": "boundary",
+        "sha": "009afa007cd954d86306b80a37fb5693c73db838",
+        "name": "evolver-solidify",
+        "description": "Solidify the current working changes into a durable Evolver gene/capsule (with rollback safety). Use when the user requests to \"solidify changes\", \"save gene\", or \"capture this capsule\".",
+        "assignment_margin": 0.0019083394083657713
+      }
+    ]
+  },
+  {
+    "cluster": 10,
+    "contents": 407,
+    "metadata_terms": [
+      "design",
+      "ui",
+      "ux",
+      "components",
+      "visual",
+      "component",
+      "frontend",
+      "css",
+      "accessibility",
+      "ui ux",
+      "responsive",
+      "tailwind"
+    ],
+    "body_terms": [
+      "design",
+      "ui",
+      "color",
+      "css",
+      "px",
+      "spacing",
+      "component",
+      "visual",
+      "typography",
+      "colors",
+      "components",
+      "accessibility"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "018013218cdd432aa6327d0ad8294af9685f07ae",
+        "name": "kanban-design-guidelines",
+        "description": "Enforces visual design guidelines for the kanban app UI. Use when creating or updating UI, styles, themes, layouts, components, or design tokens to keep the interface dual-mode (light/dark), medium contrast, lightly rounded, Geist-based, and wide-margin.",
+        "assignment_margin": 0.4515891117805496
+      },
+      {
+        "selection": "representative",
+        "sha": "000d2eaaef70a9cc83edf3f39d5b27f01cf4231d",
+        "name": "design",
+        "description": "Design consistency and visual styling for the Svelte client UI. Use when creating or modifying visual elements, colors, typography, buttons, inputs, or cards.",
+        "assignment_margin": 0.43319085504988525
+      },
+      {
+        "selection": "representative",
+        "sha": "0081f403e801c10673fcc69308e2d4d36e9edb28",
+        "name": "shortcut-ui-skills",
+        "description": "Shortcut's UI design system. Use when building interfaces inspired by Shortcut's aesthetic - light mode, Inter font, 4px grid.",
+        "assignment_margin": 0.4369677654487684
+      },
+      {
+        "selection": "representative",
+        "sha": "00c14137f9a7a89d9be869b19e3a574d19e4fe20",
+        "name": "ui-design-system",
+        "description": "UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsive design calculations, and developer handoff tools. Use for creating design systems, maintaining visual consistency, and facilitating design-dev collaboration.",
+        "assignment_margin": 0.4253008226258124
+      },
+      {
+        "selection": "representative",
+        "sha": "0104b983b8f276306e1fca16412a6ce77edfa6e6",
+        "name": "israeli-ui-design-system",
+        "description": "Build RTL-first UI component libraries and design systems for Israeli applications with Hebrew typography. Use when user asks about Hebrew UI components, \"itzuv\" (design), Israeli design system, Hebrew font pairing, RTL component library, \"tipografia ivrit\" (Hebrew typography), or gov.il design patterns. Covers RTL-first component architecture, Hebrew font pairings (Heebo+Inter, Rubik+Source Sans Pro), gov.il design system patterns, and culturally appropriate UI for Israeli users. Do NOT use for general RTL CSS (use hebrew-rtl-best-practices) or accessibility audits (use israeli-accessibility-compliance instead).",
+        "assignment_margin": 0.3839974666457355
+      },
+      {
+        "selection": "random",
+        "sha": "00b44c813032d93c97cc2f12596560f00ab64a14",
+        "name": "color-hierarchy-resolution",
+        "description": "Rules and architectural principles for resolving UI color saturation, preventing accent conflicts, and establishing Apple-style visual hierarchy.",
+        "assignment_margin": 0.23453286638774093
+      },
+      {
+        "selection": "random",
+        "sha": "01924d3fa7ca4ad3510de6bf4872ad0149de417f",
+        "name": "manage-ui-design",
+        "description": "Use for Manage web app UI, UX, layout, visual polish, responsive behavior, Gantt/member-load/Insights design changes, screenshot-driven fixes, or browser-visible frontend quality improvements.",
+        "assignment_margin": 0.2767203852675571
+      },
+      {
+        "selection": "random",
+        "sha": "0178a55ed7ebf56f89a6e2b77fd85955eb0ff717",
+        "name": "theme-wind-gradient-background",
+        "description": "Implements nexusSSO-style CSS grid app background with radial fade from top. Uses --grid-color and sits beneath sidebar/header with glass overlays. Use when adding or updating AppShellBackground or transparent sidebar/header over a global background.",
+        "assignment_margin": 0.03865857703516947
+      },
+      {
+        "selection": "random",
+        "sha": "00c58a3d9f7370a110c832bd4052b6a27a274cc3",
+        "name": "design-system",
+        "description": "Reference and apply design system and design token management guidelines. Use when establishing design tokens, color system, typography scale, spacing system, component specifications, cross-platform brand consistency.",
+        "assignment_margin": 0.2814465519126843
+      },
+      {
+        "selection": "random",
+        "sha": "0167fe727ee2e504adaa361ec9c4d04094d65e15",
+        "name": "frontend-design-landing-deck",
+        "description": "Produce a single-file slide deck in the Atelier Zero visual language (warm-paper background, italic-serif emphasis spans, coral terminating dots, surreal collage plates) — Frontend Design's brand deck recipe. The deck uses **horizontal magazine-style swipe pagination** (←/→, wheel, swipe), a per-slide chrome strip with brand mark and slide counter, an ESC overview grid, a coral progress bar, and inherits the canonical stylesheet + 16-slot image library from the sister `frontend-design-landing` skill.\n",
+        "assignment_margin": 0.11373385148576148
+      },
+      {
+        "selection": "boundary",
+        "sha": "00632361716a6c831754f9147f084ab01f46f0f6",
+        "name": "ux-micro-patterns",
+        "description": "UX micro-patterns for every product state: Empty States, Loading States (skeleton screens, spinners, optimistic UI), Error States, Success States, Confirmation Dialogs, Onboarding Flows, and Progressive Disclosure. These patterns apply to every feature — done wrong, they're the biggest source of user confusion.",
+        "assignment_margin": 0.0017619606751704817
+      }
+    ]
+  },
+  {
+    "cluster": 11,
+    "contents": 399,
+    "metadata_terms": [
+      "data",
+      "integration manage",
+      "wants interact",
+      "interact",
+      "integration",
+      "manage",
+      "analysis",
+      "data records",
+      "manage data",
+      "automate wants",
+      "records automate",
+      "records"
+    ],
+    "body_terms": [
+      "membrane",
+      "column",
+      "csv",
+      "columns",
+      "query",
+      "clientaction",
+      "connectionid",
+      "df",
+      "connection",
+      "raw",
+      "values",
+      "membranehq"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "0117d130f6f76f81e96cb71993b7b7234b7a7a4f",
+        "name": "wrangling",
+        "description": "Data wrangling fundamentals",
+        "assignment_margin": 0.4324649616830879
+      },
+      {
+        "selection": "representative",
+        "sha": "00b67ebdf38dfe91e13b2d52dcb55e08311d5eda",
+        "name": "SC-21(1)_data-origin-and-integrity",
+        "description": "Data Origin and Integrity",
+        "assignment_margin": 0.4128111763350389
+      },
+      {
+        "selection": "representative",
+        "sha": "00b91b08c5423b55ccbf3e0b004dbc51c3b831ca",
+        "name": "unbroker",
+        "description": "Autonomously remove your info from data-broker sites.",
+        "assignment_margin": 0.33885528544883997
+      },
+      {
+        "selection": "representative",
+        "sha": "016fd9efe14e7c8123b140b625d4852c75c0e060",
+        "name": "esg-data",
+        "description": "Data with ESG. data collection.",
+        "assignment_margin": 0.41479854493292184
+      },
+      {
+        "selection": "representative",
+        "sha": "00d4b4f861029fb632145213475cdbb716ca96da",
+        "name": "financial-data",
+        "description": "金融数据处理技能：交易数据导入、持仓数据管理、风险指标计算。\nUse when: 需要处理交易记录、导入持仓数据、计算风险指标、数据清洗验证。\nTriggers: \"交易\", \"持仓\", \"导入\", \"数据\", \"IBKR\", \"风险\", \"净值\", \"回撤\"\n",
+        "assignment_margin": 0.3881137789358419
+      },
+      {
+        "selection": "random",
+        "sha": "0034b9e811d04235511bb3cfbe1c1418ec6c35a5",
+        "name": "agent-data-engineer",
+        "description": "Data Engineer IA — Expert en pipelines de données (ETL, data lakes, dbt, Airflow, streaming). Construit des pipelines fiables, scalables et auditable.",
+        "assignment_margin": 0.18362176864190785
+      },
+      {
+        "selection": "random",
+        "sha": "0170f0649d3b55c6f2702b4ea57b939b120dcd2a",
+        "name": "compliance",
+        "description": "Legal and regulatory compliance for email sending: CAN-SPAM, GDPR, CASL, and consent flows. Always load this skill when the task involves sending to recipients in the US, EU, or Canada, the legal requirements differ significantly between jurisdictions and the penalties for violations are severe. Use it for: consent collection, unsubscribe flows, GDPR data subject requests, what must appear in email footers, data retention obligations, double opt-in design, or evaluating whether a specific email practice is legally permissible. When in doubt about whether something requires consent or an opt-out, load this skill before answering.\n",
+        "assignment_margin": 0.06213363250300222
+      },
+      {
+        "selection": "random",
+        "sha": "0058b0419207cb5777120e3224ea827c655444e9",
+        "name": "sql-data-modeling",
+        "description": "Schema design patterns, normalization, indexing strategies, and scaling techniques for SQL databases",
+        "assignment_margin": 0.054539466560647704
+      },
+      {
+        "selection": "random",
+        "sha": "0001a8d57709101e5f8efe560f42db4e60a88769",
+        "name": "mock-data",
+        "description": "Creates typed mock data files in src/data/ following project conventions. Use when needing test data for new features or components.",
+        "assignment_margin": 0.15711775571651707
+      },
+      {
+        "selection": "random",
+        "sha": "01650cec78e9dcbcae9efb7b141f048696b7f996",
+        "name": "sota-databases",
+        "description": "State-of-the-art database engineering rules (2026) for designing, building, and auditing data layers. Covers engine selection, schema modeling, migrations, query and index craft, transactions and concurrency, reliability and scale, security, and vector/AI workloads. Use when designing a new data layer, writing or reviewing schemas/migrations/queries, debugging slow or contended database workloads, or auditing an existing database for correctness, performance, and security. Trigger keywords: database, SQL, Postgres, schema, migration, index, query, ORM, transaction, NoSQL, Redis, vector DB, pgvector, replication, partitioning, connection pool, RLS, EXPLAIN, deadlock, sharding, caching, SurrealDB, SurrealQL, Qdrant, multi-model, graph database.",
+        "assignment_margin": 0.0065033164004422795
+      },
+      {
+        "selection": "boundary",
+        "sha": "019a42f71c16e4c44522994f874cc12ed204d5af",
+        "name": "knowledge-extract",
+        "description": "Extracts reusable, source-scoped domain knowledge from a concluded analysis and\npersists it to the data catalog. Claude reads the design's journal / reflection /\nreview comments, proposes DomainKnowledgeEntry candidates, and — after user\nconfirmation — writes them via catalog_io add-knowledge.\nTriggers: \"知見を抽出\", \"ナレッジ登録\", \"knowledge extract\", \"カタログに知見\",\n\"この分析の学びを残す\", \"extract domain knowledge\".\n",
+        "assignment_margin": 0.0029087513378580447
+      }
+    ]
+  },
+  {
+    "cluster": 12,
+    "contents": 398,
+    "metadata_terms": [
+      "agent",
+      "agents",
+      "multi agent",
+      "multi",
+      "agent agent",
+      "team",
+      "tool",
+      "parallel",
+      "agent teams",
+      "protocol",
+      "agent team",
+      "teams"
+    ],
+    "body_terms": [
+      "agent",
+      "agents",
+      "prompt",
+      "orchestrator",
+      "tool",
+      "session",
+      "claude",
+      "subagent",
+      "sonnet",
+      "orchestration",
+      "codex",
+      "role"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "010ddc62d336b06e7058ad8755ae4082e7cd44d8",
+        "name": "iterative-retrieval",
+        "description": "逐步精化上下文检索的模式，解决子 agent 上下文问题",
+        "assignment_margin": 0.42187989377774276
+      },
+      {
+        "selection": "representative",
+        "sha": "012d4e0ceac7afe9c7a0226e35a20fd3e9ede25b",
+        "name": "agent-evaluation",
+        "description": "Implements intelligent agent evaluation with multi-factor skill selection, fallback chains, and adherence to the 5 Laws of Elegant Defense",
+        "assignment_margin": 0.34731069553425287
+      },
+      {
+        "selection": "representative",
+        "sha": "004af136acce64a10799132387ec9b288becec43",
+        "name": "trail-hsr",
+        "description": "当用户希望 Agent 接管并自动游玩《崩坏：星穹铁道》，或从当前局面继续推进游戏任务时使用。",
+        "assignment_margin": 0.4225653792063995
+      },
+      {
+        "selection": "representative",
+        "sha": "010607df95ed6f73a096806f203592d9c7623912",
+        "name": "ejs-sub-agent-capture",
+        "description": "Capture sub-agent decisions, rationale, and inter-agent handoffs during multi-agent Engineering Journey System (EJS) workflows. Ensures that delegated work is properly attributed and traceable.\n",
+        "assignment_margin": 0.39464345183573435
+      },
+      {
+        "selection": "representative",
+        "sha": "013402720531e214e0b12663ebc0bc9b07dea212",
+        "name": "sibyl-supervisor",
+        "description": "Sibyl 监督审查 agent - 独立第三方质量审查",
+        "assignment_margin": 0.41424888532883447
+      },
+      {
+        "selection": "random",
+        "sha": "0159cf5a7d11987330683388a362e8169e9af681",
+        "name": "trigger-agent",
+        "description": "Trigger a DuckyAI orchestrator agent. Use when asked to trigger an agent, run CEA, trigger enrichment, or manually run an agent.",
+        "assignment_margin": 0.29818025374506485
+      },
+      {
+        "selection": "random",
+        "sha": "00cab85c3b923971afd3b94855fb5bf8741feb65",
+        "name": "agent-lightning",
+        "description": "Microsoft Research's agent training framework. Optimizes AI agents with Reinforcement Learning, Automatic Prompt Optimization, and Supervised Fine-tuning. Zero code change required. Works with LangChain, AutoGen, CrewAI, OpenAI Agent SDK.",
+        "assignment_margin": 0.08190964023864072
+      },
+      {
+        "selection": "random",
+        "sha": "01356e02db5b453e1947c5c386b939f02c1cc172",
+        "name": "reflection",
+        "description": "Insert a structured self-review checkpoint into any workflow — let the agent grade its own output against the original ask, surface mistakes, and course-correct before delivering. Use after producing any non-trivial artifact, after a long multi-step task, or when the user has been burned by hallucinations or sloppy work before.",
+        "assignment_margin": 0.06735715699898946
+      },
+      {
+        "selection": "random",
+        "sha": "00edc3e9ac4fcc1ab302b469bece32d302495961",
+        "name": "realty",
+        "description": "domain guidance for property listings, developments, agent profiles, inquiries, open houses, saved searches, compare flows, maps, and real estate storefront and panel workflows in negosyohub",
+        "assignment_margin": 0.2173196019152728
+      },
+      {
+        "selection": "random",
+        "sha": "007bd144e4f9bb2a4c1398d158f84a193673ebc2",
+        "name": "agent-health-diagnostics",
+        "description": "Diagnose and fix the 4 most common OpenClaw agent failures — heartbeat spam, API rate limit cascades, channel death loops, and memory/embedding errors. Battle-tested across a 6-agent multi-host deployment.",
+        "assignment_margin": 0.11473596680348402
+      },
+      {
+        "selection": "boundary",
+        "sha": "008af8a7db8c461f79af2915e72429c58daa363d",
+        "name": "gee-agent-skill",
+        "description": "Build traceable, auditable, evaluation-driven Google Earth Engine Python research workflows with local RAG evidence, Jinja2 templates, static and semantic validation, run traces, dry runs, live export gating, export monitoring, and benchmark tests for NDVI, LST, zonal statistics, and change detection.",
+        "assignment_margin": 0.0005701193336012584
+      }
+    ]
+  },
+  {
+    "cluster": 13,
+    "contents": 390,
+    "metadata_terms": [
+      "review",
+      "code review",
+      "code",
+      "pr",
+      "pr review",
+      "reviewer",
+      "reviews",
+      "review pr",
+      "review review",
+      "pull",
+      "changes",
+      "review code"
+    ],
+    "body_terms": [
+      "review",
+      "pr",
+      "reviewer",
+      "findings",
+      "diff",
+      "issues",
+      "fix",
+      "issue",
+      "severity",
+      "reviews",
+      "comments",
+      "changes"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "0100dc2182cd3550f45c974b9e2ac3e276a32041",
+        "name": "specdo-receive-code-review",
+        "description": "Use when SpecDo apply explicitly selects specdo-receive-code-review with a resolved active apply payload and concrete review feedback.",
+        "assignment_margin": 0.3318900384732945
+      },
+      {
+        "selection": "representative",
+        "sha": "011b91c4f28b28c4e11305b07a557f7764c07bba",
+        "name": "corrective-bead-creation",
+        "description": "Turn review findings into actionable corrective developer beads.",
+        "assignment_margin": 0.36325016646922664
+      },
+      {
+        "selection": "representative",
+        "sha": "00a32a43c08f47527670974b17665f0de4f79952",
+        "name": "responding-to-review-feedback",
+        "description": "Collaboratively review and respond to PR code review feedback. Use when working through review comments, implementing suggestions, or responding to reviewer questions.",
+        "assignment_margin": 0.3867730343508565
+      },
+      {
+        "selection": "representative",
+        "sha": "01818834abe1655423ca48a46d547dfae3f48a50",
+        "name": "su-review",
+        "description": "审查执行回执、diff 和验证证据，决定通过、返工、replan 或升级用户。",
+        "assignment_margin": 0.4068301073257427
+      },
+      {
+        "selection": "representative",
+        "sha": "00f2ac090fcb52a968ce4725118b5f1a97f3a203",
+        "name": "code-review",
+        "description": "Expert code review guidelines with priority levels, core review areas, language-specific checks, and structured output format. Use this when asked to review code, review a PR, or perform a code review.",
+        "assignment_margin": 0.3083682017540075
+      },
+      {
+        "selection": "random",
+        "sha": "0037297978524044f2c85bf6c8f8f912dab160b0",
+        "name": "code-reviewer",
+        "description": "Review actual code implementations (Python, JavaScript, TypeScript, React) for correctness, maintainability, security hygiene, and adherence to project patterns. Use when reviewing pull requests to ensure code quality, proper error handling, adequate test coverage mapped to acceptance criteria, and alignment with architecture boundaries and review standards.",
+        "assignment_margin": 0.03254306036627024
+      },
+      {
+        "selection": "random",
+        "sha": "01111688fd9aa6735a9ff43cd0873c6524ee0af8",
+        "name": "code-review",
+        "description": "當使用者要求進行 JavaScript、TypeScript、React 或前端程式碼審查時使用。適用於「幫我 review」、「檢查這段程式碼」、「有什麼問題」、「幫我看 PR」等請求。",
+        "assignment_margin": 0.24505754011670422
+      },
+      {
+        "selection": "random",
+        "sha": "002e09fa2ba8a6bd04de86e4142ba3adc114791a",
+        "name": "py-review-orchestrator",
+        "description": "Execute BioETL hierarchical code review orchestration (L1/L2/L3) across sectors S1-S8 with delegated sub-reviews, scoring, and consolidated reporting in reports/review/FINAL-REVIEW.md. Use when a full-project audit or broad multi-layer review is requested.",
+        "assignment_margin": 0.29354241552139426
+      },
+      {
+        "selection": "random",
+        "sha": "0068432c230096d8901ebce5ceafc2dbd34fc1d3",
+        "name": "sql-review",
+        "description": "SQL-specific code review — delegates to de-sql-optimizer + python-code-\nreviewer agents. Use when reviewing SQL for anti-patterns, performance issues,\nor cross-dialect correctness.\n",
+        "assignment_margin": 0.1100491839595631
+      },
+      {
+        "selection": "random",
+        "sha": "00bf9e9c43f57026feeb6bf5702da03c0680c9cc",
+        "name": "code-reviewer",
+        "description": "Code review specialist for quality, security, and best practices",
+        "assignment_margin": 0.11082060231986446
+      },
+      {
+        "selection": "boundary",
+        "sha": "012d68b664ce5a79d41ab94022603dca10095368",
+        "name": "claude-parity",
+        "description": "Claude Code parity workflows for Codex CLI. Use when users ask for slash-command style tasks like context-prime, commit, pr-create, review-pr, debug, test, dependencies, security-audit, feature-spec, or pipeline.",
+        "assignment_margin": 0.002258092232680066
+      }
+    ]
+  },
+  {
+    "cluster": 14,
+    "contents": 363,
+    "metadata_terms": [
+      "test",
+      "tests",
+      "testing",
+      "coverage",
+      "unit",
+      "e2e",
+      "run",
+      "tdd",
+      "qa",
+      "pytest",
+      "green",
+      "red"
+    ],
+    "body_terms": [
+      "test",
+      "tests",
+      "testing",
+      "mock",
+      "assert",
+      "coverage",
+      "unit",
+      "e2e",
+      "behavior",
+      "pytest",
+      "suite",
+      "expect"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00b9e6e5fa83b06f9d0582674813bfa15cf62f79",
+        "name": "test-skill",
+        "description": "A test skill for E2E conversion testing",
+        "assignment_margin": 0.4136213139099075
+      },
+      {
+        "selection": "representative",
+        "sha": "019686c096634c0d9c890e97cf996c819c5a4543",
+        "name": "test-suite",
+        "description": "Generates a test suite by analyzing coverage gaps, prioritizing critical and untested code paths, then writing tests in parallel that match the project's existing patterns. Use when the user wants to write tests, add test coverage, generate test cases, improve testing, or analyze coverage gaps. Supports pytest, vitest, jest, and all major test frameworks. Not for debugging a specific failing test (use fix-bug).",
+        "assignment_margin": 0.3690459018292179
+      },
+      {
+        "selection": "representative",
+        "sha": "00537ac99a228db0aad7fbc84b72794f54bf177f",
+        "name": "agent-ops-testing",
+        "description": "Test strategy, execution, and coverage analysis. Use when designing tests, running test suites, or analyzing test results beyond baseline checks.",
+        "assignment_margin": 0.38243340765209516
+      },
+      {
+        "selection": "representative",
+        "sha": "00935590da9a7611b3c74b2684e8c9139008240c",
+        "name": "testing-builder",
+        "description": "Automatically generates comprehensive test suites (unit, integration, E2E) based on code and past testing patterns. Use when user says \"write tests\", \"test this\", \"add coverage\", or after fixing bugs to create regression tests. Eliminates testing friction for ADHD users.",
+        "assignment_margin": 0.3743455608340803
+      },
+      {
+        "selection": "representative",
+        "sha": "00fb1c13dc5e1bd77ed86a5f1267b964309664b1",
+        "name": "test-skill",
+        "description": "A test skill for unit testing",
+        "assignment_margin": 0.40354469155172457
+      },
+      {
+        "selection": "random",
+        "sha": "011d9b130fc8002121eb6aee558083075fb961b8",
+        "name": "mc-gradle-builds",
+        "description": "Build, test, run, and troubleshoot the Aki-Async Leaves Mixin plugin with its Gradle wrapper, leavesweight userdev, resource factory, Shadow, Mixin Extras, and AccessWidener tasks. Use when running Gradle commands, editing build.gradle.kts, settings.gradle.kts, gradle.properties, libs.versions.toml, repositories or dependencies, diagnosing dependency resolution, or verifying the plugin JAR and generated Leaves metadata.",
+        "assignment_margin": 0.022557460161803947
+      },
+      {
+        "selection": "random",
+        "sha": "00f94c4551a0b12227e158f77984515d9ce8dc8f",
+        "name": "tdd-loop",
+        "description": "Enforces strict Red → automated RED-quality gate → Green → Refactor TDD by delegating to isolated subagents. Runs autonomously — the gate replaces the human \"go\". Auto-triggers when implementing new features from a plan.md ledger item. Trigger phrases include \"implement\", \"run tdd-loop\", \"next ledger item\", \"build T0X\". Does NOT trigger for bug fixes (use regression-test-author flow), documentation, or configuration changes.",
+        "assignment_margin": 0.012157918884656553
+      },
+      {
+        "selection": "random",
+        "sha": "015b035bf53f5a2611897ef39e484ef84cc969e6",
+        "name": "access-control-test",
+        "description": "Test a web app's authorization: IDOR/BOLA, missing function-level access control, privilege escalation (horizontal and vertical), and forced browsing. Use to validate OWASP A01 on an authorized target — the most prevalent web risk.",
+        "assignment_margin": 0.03322589769759137
+      },
+      {
+        "selection": "random",
+        "sha": "001eda9f90c438952932bfb7887dd2b723d65974",
+        "name": "teds-extend-core-modules",
+        "description": "Use when extending Python TEDS internals such as density, fisher, kpi, kpi-free, workflows, or examples, and the user needs safe, test-backed changes that preserve architecture boundaries.",
+        "assignment_margin": 0.07494342896239482
+      },
+      {
+        "selection": "random",
+        "sha": "00fb4a982fb7f65440f9b632fdc5e6544f0fe323",
+        "name": "cli",
+        "description": "Manage all Deno capabilities via CLI (run, test, fmt, lint, task, add, etc.). Use this skill when you need to execute Deno commands, manage dependencies, run tests, or handle local development workflows.",
+        "assignment_margin": 0.030525710071591283
+      },
+      {
+        "selection": "boundary",
+        "sha": "0075997ebc93038e80bb3433f7f95a2d861b2998",
+        "name": "interpreter-in-target-language",
+        "description": "Writing an interpreter/evaluator FOR a language, especially a metacircular evaluator written IN that same language that must interpret itself. Covers: reading a provided reference interpreter (interp.py) as the exact spec, the read-filename-from-stdin I/O contract, skeleton-first incremental bring-up tested against the reference, and the self-hosting bootstrap constraint. Use for 'write eval.scm / a metacircular evaluator / an interpreter that runs these test programs and itself' tasks.",
+        "assignment_margin": 0.0010715099979023877
+      }
+    ]
+  },
+  {
+    "cluster": 15,
+    "contents": 354,
+    "metadata_terms": [
+      "api",
+      "rest",
+      "openapi",
+      "endpoints",
+      "apis",
+      "rest api",
+      "endpoint",
+      "integration",
+      "api key",
+      "key",
+      "graphql",
+      "api integration"
+    ],
+    "body_terms": [
+      "api",
+      "response",
+      "endpoint",
+      "id",
+      "post",
+      "endpoints",
+      "openapi",
+      "token",
+      "http",
+      "v1",
+      "bearer",
+      "curl"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "0100df7d4913697824207e188e023b8b3d4d31f3",
+        "name": "api-developer",
+        "description": "API 개발 전문가. REST API, FastAPI, Flask, 인증, 문서화.",
+        "assignment_margin": 0.46486501908621314
+      },
+      {
+        "selection": "representative",
+        "sha": "016c3db1e89fc0b3b2b940bdd7f3258955848f62",
+        "name": "jpk-submit",
+        "description": "Wysyła wygenerowany plik JPK_V7M lub JPK_EWP do bramki Ministerstwa Finansów (REST API e-dokumenty.mf.gov.pl) z autoryzacją \"danymi autoryzującymi\" (bez podpisu kwalifikowanego). Zwraca numer referencyjny i UPO (Urzędowe Poświadczenie Odbioru). Użyj gdy user mówi \"wyślij JPK do MF\", \"złóż deklarację VAT\", \"wyślij JPK_V7M\", \"wyślij ewidencję ryczałtu\", \"submituj JPK\", lub bezpośrednio po wygenerowaniu pliku JPK.",
+        "assignment_margin": 0.44046799460661046
+      },
+      {
+        "selection": "representative",
+        "sha": "00302ce8e5396da903586f43f04af6aa2b3b5d3a",
+        "name": "ohspec",
+        "description": "Use when 需要生成 RFC 技术规范、进行需求分析、设计 API 契约，或需要 OHSpec 多代理编排输出。Triggers on \"RFC\", \"需求分析\", \"API 契约\", \"设计规范\", \"OHSpec\", \"/ohspec\".",
+        "assignment_margin": 0.43499992708140095
+      },
+      {
+        "selection": "representative",
+        "sha": "005a00b852ebc41fde187f37874dc38f77aefd90",
+        "name": "apollo-api",
+        "description": "Apollo.io API:搜索人脉与组织、补全联系人资料、管理销售管道。当需要查找潜客、丰富联系信息或对接销售流程时触发。",
+        "assignment_margin": 0.4398880364016166
+      },
+      {
+        "selection": "representative",
+        "sha": "00fb2856b5aa4c9c9a44bc9b75368c19d6b2da68",
+        "name": "mars3d-skill",
+        "description": "Mars3D 三维 GIS 地图库的权威 API 参考。当用户提到 Mars3D、三维地图、3D GIS、Cesium 地图可视化、三维地球场景搭建时，必须使用本技能。覆盖 Mars3D v3.11.4 的完整 API：Map 初始化、图层管理、矢量图形、材质、控件、特效、分析工具。每当用户需要编写 Mars3D 代码、创建三维地图项目、添加图形/图层/模型、或者使用任何 Mars3D API 时触发，即使是简单的 Mars3D 问题也要参考。",
+        "assignment_margin": 0.42103178357972076
+      },
+      {
+        "selection": "random",
+        "sha": "0114e190cff5639d1a851e6ab3bad49b321f2081",
+        "name": "from-url",
+        "description": "Build an OpenAPI spec by analyzing API documentation from a URL",
+        "assignment_margin": 0.16669650355538806
+      },
+      {
+        "selection": "random",
+        "sha": "0008302904f618f4dda52ca483cd932ce29eb749",
+        "name": "broker-gotchas",
+        "description": "Per-broker quirks for DaxAlgo Terminal's four SDK-based IBrokerClient backends — Interactive Brokers (TWS API), NinjaTrader 8 (NTDirect P/Invoke), cTrader (Spotware Open API 2.0 protobuf), and Alpaca (REST + WebSocket via Alpaca.Markets NuGet). (The no-SDK REST/WS backends — Ironbeam, LSE, Upstox, Binance, Coinbase, Bybit, Kraken, OKX — aren't covered here; mirror Infrastructure/Binance or /IronBeam.) Use BEFORE editing anything under src/TradingTerminal.Infrastructure/Ib/, /Ninja/, /CTrader/, or /Alpaca/, or when diagnosing connection/threading/error-code issues against a specific broker. Skip for broker-neutral code (Core, UI, repository layer).",
+        "assignment_margin": 0.22477928685659088
+      },
+      {
+        "selection": "random",
+        "sha": "00a3b7422f30c3d2409fda73d70fb48ac347fe58",
+        "name": "infosubvenciones",
+        "description": "Use when the user asks about Spanish public subsidies, grants, or aid (subvenciones, ayudas públicas) — calls for proposals (convocatorias), individual awards (concesiones) by beneficiary, NIF or organism, state aid (ayudas de Estado), de minimis aid, large beneficiaries, or strategic subsidy plans. Queries the official BDNS / SNPSAP REST API of the Spanish Treasury (IGAE), covering state, regional and local administrations. Triggers on: 'BDNS', 'subvenciones', 'subvención', 'ayudas públicas', 'ayuda pública', 'infosubvenciones', 'convocatoria subvención', 'convocatorias de ayudas', 'concesión subvención', 'beneficiario subvención', 'ayudas de Estado', 'ayudas de minimis', 'SNPSAP', 'grandes beneficiarios subvenciones'.",
+        "assignment_margin": 0.14649736518378498
+      },
+      {
+        "selection": "random",
+        "sha": "008cd558894f9df8b3df79c1a2e4841f7d84808c",
+        "name": "ramp-install-auth",
+        "description": "Ramp install auth — corporate card and expense management API integration.\nUse when working with Ramp for card management, expenses, or accounting sync.\nTrigger with phrases like \"ramp install auth\", \"ramp-install-auth\", \"corporate card API\".\n",
+        "assignment_margin": 0.14570884198032683
+      },
+      {
+        "selection": "random",
+        "sha": "00ca1356c5d6bb89cb2de8502185afcd431e33ac",
+        "name": "kong-gateway",
+        "description": "Configures Kong API Gateway declarative routes, JWT, rate limiting, and CORS for NexuGear. Use when editing infra/kong/kong.yml or debugging API edge behavior.",
+        "assignment_margin": 0.349723262729682
+      },
+      {
+        "selection": "boundary",
+        "sha": "015fef4fddd607168a63bae5ea43b021d204b94f",
+        "name": "azure-devops",
+        "description": "Azure DevOps integration covering pipelines, boards, repos, artifacts, and work item management via Azure CLI and REST API",
+        "assignment_margin": 0.0015396156514593936
+      }
+    ]
+  },
+  {
+    "cluster": 16,
+    "contents": 327,
+    "metadata_terms": [
+      "ai",
+      "ai agents",
+      "agents",
+      "prompt",
+      "powered",
+      "ai powered",
+      "llm",
+      "agent",
+      "image",
+      "ai agent",
+      "ai generated",
+      "text"
+    ],
+    "body_terms": [
+      "ai",
+      "prompt",
+      "model",
+      "agent",
+      "gemini",
+      "https",
+      "llm",
+      "image",
+      "human",
+      "anthropic",
+      "openai",
+      "models"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "003bab93590d9281711593c3d1a9ddcb55691feb",
+        "name": "botbili",
+        "description": "在 BotBili 上发布和管理 AI 视频。包含平台使用、内容规范、视频生成、错误排障、共创频道等完整指南。",
+        "assignment_margin": 0.45408931243191747
+      },
+      {
+        "selection": "representative",
+        "sha": "000cd4d7d66b9f65a1e4ac6d8255e7d1eba4e38b",
+        "name": "clothing-magic-remover-openapi-skill",
+        "description": "AI clothing remover — erase accessories or partial clothing while keeping textures realistic",
+        "assignment_margin": 0.37962309810090833
+      },
+      {
+        "selection": "representative",
+        "sha": "005903ca29c0432770b3b684b48e82befe0f804c",
+        "name": "staff-ai-literacy-primer",
+        "description": "「新任職員向けに生成 AI 基礎研修を作りたい」「SD 研修資料を短時間で組み立てたい」 「自分自身のリテラシー棚卸しをしたい」「新人に AI の使い分けを 30 分で説明したい」 「ハルシネーションの見抜き方を教えたい」場面で使う、大学職員向け AI リテラシー入門スキル。 プロンプトの基本構造・ハルシネーション検出・サービス選定を、30〜60 分のコア研修に そのまま流用できる章立てで提供する。\n",
+        "assignment_margin": 0.44478568731008056
+      },
+      {
+        "selection": "representative",
+        "sha": "00b3330ec5f3803c8fe2e5ac6a6d7b53d7d64335",
+        "name": "behavioral-modes",
+        "description": "AI operasyonel modları (beyin fırtınası, uygulama, hata ayıklama, inceleme, öğretme, dağıtım, orkestrasyon). Görev türüne göre davranışı uyarlamak için kullanın.",
+        "assignment_margin": 0.435472032200819
+      },
+      {
+        "selection": "representative",
+        "sha": "0062ce8a12f8f89b5512eca6582ccf8a9beb60f4",
+        "name": "ai-fitness-coach-cn",
+        "description": "AI健身教练助手 - 智能训练计划、动作指导、饮食建议、进度追踪",
+        "assignment_margin": 0.43393147894799283
+      },
+      {
+        "selection": "random",
+        "sha": "000c4280cd9cb73fbea6703eaac6241fea30c4dd",
+        "name": "heath-ledger",
+        "description": "AI bookkeeping agent for Mercury bank accounts. Pulls transactions, categorizes them (rule-based + AI), and generates Excel workbooks with P&L, Balance Sheet, Cash Flow, and transaction detail. Use when the user wants to do bookkeeping, generate financial statements, categorize bank transactions, connect Mercury, or produce monthly/quarterly/annual books. Triggers on: bookkeeping, P&L, profit and loss, balance sheet, cash flow, financial statements, Mercury bank, categorize transactions, generate books, monthly close.",
+        "assignment_margin": 0.06887345073166441
+      },
+      {
+        "selection": "random",
+        "sha": "017b1dfcb02f636ac6cc3e5a337dbd3f3908c432",
+        "name": "wenrun-lite",
+        "description": "润色或改写中文文本，淡化 AI、翻译和模板痕迹，保留作者意图与信息。适合需要自然中文表达且默认少用冒号的文章、评论、说明和日常文案。",
+        "assignment_margin": 0.42918387383694856
+      },
+      {
+        "selection": "random",
+        "sha": "0175520838b7abfcc7b7148f74632ce354d21fae",
+        "name": "deslop",
+        "description": "Remove AI code slop",
+        "assignment_margin": 0.18159291119666848
+      },
+      {
+        "selection": "random",
+        "sha": "006a7ecc621498f542028ed1743f220b1d8edb78",
+        "name": "myyprimer",
+        "description": "Universal AI Session Primer to be used at the start of every technical session.",
+        "assignment_margin": 0.09976062097694544
+      },
+      {
+        "selection": "random",
+        "sha": "01adbbdbba70dc7c3ccf1da1db8ed8f26a8a99a3",
+        "name": "no-vibe-challenge",
+        "description": "Generate a one-shot coding challenge based on current no-vibe session or project context. User writes all code; AI only gives constraints, hints, and review.",
+        "assignment_margin": 0.035358111588266156
+      },
+      {
+        "selection": "boundary",
+        "sha": "001d37ff28e3ddb8038be30f79d6a992df442ed3",
+        "name": "awt-e2e-testing-v2",
+        "description": "AWT \\u2014 AI-Powered E2E Testing (Beta) workflow skill. Use this skill when the user needs AI-powered E2E web testing \\u2014 eyes and hands for AI coding tools. Declarative YAML scenarios, Playwright execution, visual matching (OpenCV + OCR), platform auto-detection (Flutter/React/Vue), learning DB. Install: npx skills add ksgisang/awt-skill --skill awt -g and the operator should preserve the upstream workflow, copied support files, and provenance before merging or handing off.",
+        "assignment_margin": 0.0011949132273729962
+      }
+    ]
+  },
+  {
+    "cluster": 17,
+    "contents": 314,
+    "metadata_terms": [
+      "performance",
+      "fix",
+      "debugging",
+      "issues",
+      "debug",
+      "errors",
+      "root",
+      "optimization",
+      "root cause",
+      "cause",
+      "error",
+      "diagnose"
+    ],
+    "body_terms": [
+      "fix",
+      "cause",
+      "performance",
+      "optimization",
+      "debug",
+      "bug",
+      "issue",
+      "error",
+      "reproduce",
+      "root",
+      "symptom",
+      "issues"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "0110401a61ea9ac68e44caa55cae40a2173c297d",
+        "name": "debug",
+        "description": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something broken/throwing/failing/slow.",
+        "assignment_margin": 0.32775565143209545
+      },
+      {
+        "selection": "representative",
+        "sha": "00fc43aad85ee56aaeee824a080ce23aaf0ebf61",
+        "name": "debug",
+        "description": "Debug code, analyze errors, interpret stack traces, find root causes, and suggest fixes. Use when troubleshooting bugs, analyzing crashes, or investigating unexpected behavior.",
+        "assignment_margin": 0.2624545133812505
+      },
+      {
+        "selection": "representative",
+        "sha": "01a47c2dad1825c807b1b1ebd47043c15170d1da",
+        "name": "debugging-methodology",
+        "description": "Systematic debugging methodology following reproduce → locate → hypothesize → verify → fix → regression workflow. Use when debugging issues, investigating bugs, troubleshooting problems, or when asked about debugging process, problem-solving, or issue investigation.",
+        "assignment_margin": 0.27440828309606674
+      },
+      {
+        "selection": "representative",
+        "sha": "0036e5a3238793e0fdbb25d0bc4ec8e3a199373a",
+        "name": "performance-patterns",
+        "description": "Detect, triage, and fix performance problems across Windows native C/C++ (clang-cl/MSVC; VTune, AMD uProf, ETW/WPA), WSL Linux, native Linux (perf/flamegraphs/GCC/Clang), and CUDA/NVIDIA environments (nvidia-smi, nvcc, Nsight Systems, Nsight Compute). Invoke when the user asks to optimize or debug performance, review SIMD/vectorized code, investigate WSL/Linux/Windows profiler output, troubleshoot CUDA driver/toolkit/GPU visibility issues, or decide whether a bottleneck is CPU host code, WSL boundary overhead, native Linux tooling, or CUDA kernels. Trigger on serial accumulator loops, narrow SIMD, _mm* intrinsics, HITM/false sharing, missing restrict/vzeroupper, condition-variable thundering herd, mutex-to-rwlock, hot library/DLL symbols, fast CRC32C, known algorithms, SIMD sort, WSL filesystem/perf issues, and CUDA launch/copy/kernel/occupancy/toolkit problems.",
+        "assignment_margin": 0.2273400464751322
+      },
+      {
+        "selection": "representative",
+        "sha": "01257b3ef3f369bc202f663e66f74ee6f01c1aae",
+        "name": "error-exploration",
+        "description": "Explore errors in Application Insights — exceptions, failed requests, and failed dependencies. Use this when asked to find errors, investigate failures, identify reliability issues, or recommend which errors to fix.",
+        "assignment_margin": 0.2567671444748128
+      },
+      {
+        "selection": "random",
+        "sha": "0064e3271c3e07eda03e03553265cf77b5d1a1e9",
+        "name": "bee:systematic-debugging",
+        "description": "Four-phase debugging framework - root cause investigation, pattern analysis,\nhypothesis testing, implementation. Ensures understanding before attempting fixes.\n",
+        "assignment_margin": 0.13791881104815892
+      },
+      {
+        "selection": "random",
+        "sha": "00acc917d44b97f37b22eeaa2c3b85c0432eb2a9",
+        "name": "terway-troubleshooting",
+        "description": "Troubleshoot Terway CNI issues in Kubernetes using Kubernetes events and Terway logs. Use when diagnosing \"cni plugin not initialized\", Pod create/delete failures, or ENI/IPAM problems in Terway (centralized or non-centralized IPAM).",
+        "assignment_margin": 0.021078104127741085
+      },
+      {
+        "selection": "random",
+        "sha": "00df5e7a02712eaaf259eb24ac6df2f81c60e4cc",
+        "name": "sf-formula",
+        "description": "Creates Salesforce formula fields, validation rules, and formula-based automation. Use when writing formula field expressions, building validation rules, troubleshooting formula compilation errors, or optimizing formula performance (compiled size limits). Do NOT use for SOQL queries (use sf-soql) or Flow formulas (use sf-flow).\n",
+        "assignment_margin": 0.036731056583105125
+      },
+      {
+        "selection": "random",
+        "sha": "002ec14de2c017af2448a90352cd0dcfbac63496",
+        "name": "optimize",
+        "description": "Use for performance work. Measure-first, profile-driven. Refuses to optimise without a baseline measurement. Targets the actual hotspot, not where intuition says it is.",
+        "assignment_margin": 0.11594220323146287
+      },
+      {
+        "selection": "random",
+        "sha": "01190cfa0e8f3e4d06e026580dba97ceb1b66eed",
+        "name": "gsd-audit-fix",
+        "description": "Autonomous audit-to-fix pipeline — find issues, classify, fix, test, commit",
+        "assignment_margin": 0.017019098924345413
+      },
+      {
+        "selection": "boundary",
+        "sha": "00d1b89cc89061a5021d73d3c0fe0d551cfa09d4",
+        "name": "database-management",
+        "description": "Database schema design, migrations, query optimization, and ORM best practices. Use for database setup, performance tuning, and data modeling.",
+        "assignment_margin": 0.0016502817947276075
+      }
+    ]
+  },
+  {
+    "cluster": 18,
+    "contents": 228,
+    "metadata_terms": [
+      "security",
+      "audit",
+      "threat",
+      "security audit",
+      "owasp",
+      "vulnerabilities",
+      "vulnerability",
+      "security review",
+      "scan",
+      "hardening",
+      "compliance",
+      "secrets"
+    ],
+    "body_terms": [
+      "security",
+      "audit",
+      "threat",
+      "owasp",
+      "injection",
+      "secrets",
+      "vulnerability",
+      "severity",
+      "vulnerabilities",
+      "access",
+      "scan",
+      "secure"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "010d64184ca38f1105120f50855401d68b01ae66",
+        "name": "Application Security",
+        "description": "ContextOS skill for Application Security\n",
+        "assignment_margin": 0.49939130787621056
+      },
+      {
+        "selection": "representative",
+        "sha": "00c4dc48ec37d0c445bc21a17d144c59c93f23d6",
+        "name": "dcyfr-security",
+        "description": "CodeQL suppressions, security vulnerability troubleshooting, and security best practices",
+        "assignment_margin": 0.5080818970324548
+      },
+      {
+        "selection": "representative",
+        "sha": "019ce3144ac053ef638240166497848054609983",
+        "name": "bcrypt",
+        "description": "bcrypt password hashing. Use for password security.",
+        "assignment_margin": 0.48104268449872606
+      },
+      {
+        "selection": "representative",
+        "sha": "007ad4c6eb52921d80eacbf45ae519b66e2d15e1",
+        "name": "firestore-security",
+        "description": "Security with Firestore. security.",
+        "assignment_margin": 0.5021384458694411
+      },
+      {
+        "selection": "representative",
+        "sha": "0027b42bc41bbc83d233ec745dbcd5f72c3743a3",
+        "name": "security-audit",
+        "description": "Security auditing skill for web applications and codebases. Scans for OWASP Top 10, dependency vulnerabilities, secrets exposure, XSS/CSRF/injection flaws, auth weaknesses, and misconfigurations. Use when task involves security scan, vulnerability assessment, pen test review, threat modeling, or hardening a codebase.",
+        "assignment_margin": 0.4739400455434947
+      },
+      {
+        "selection": "random",
+        "sha": "0154a40b687ef71388a6cae63d3907c7b75f16c9",
+        "name": "vulnerability-assessment",
+        "description": "Assess a project's vulnerability posture — check dependencies, configurations, and common security weaknesses. TRIGGER when: user says /vulnerability-assessment, wants to scan for vulnerabilities, asks about dependency security, or needs a security health check.\n",
+        "assignment_margin": 0.35423412205342264
+      },
+      {
+        "selection": "random",
+        "sha": "00a188572eaa5a4bb62118aa781061e13991804c",
+        "name": "speckit-security-review-followup",
+        "description": "Create remediation plans or technical-debt tasks from security review findings",
+        "assignment_margin": 0.16099866184855355
+      },
+      {
+        "selection": "random",
+        "sha": "0073ca67078c1f91f4cb52846f94f27085fc754e",
+        "name": "Security Reviewer",
+        "description": "Mandatory core-4 reviewer with P0-P3 severity classification and specialist escalation",
+        "assignment_margin": 0.3449274444552127
+      },
+      {
+        "selection": "random",
+        "sha": "01ae489826c11ef79bf6b0fe0c52112726c6e538",
+        "name": "clawsec-env",
+        "description": "ClawSec ENV security sub-agent. Scans for credential exposure risks: .env files not gitignored, missing pre-commit hooks, missing SECURITY.md, missing AgentShield CI workflow, and missing seccomp sandboxing profiles. Called exclusively by clawsec-coordinator.\n",
+        "assignment_margin": 0.17358549449342875
+      },
+      {
+        "selection": "random",
+        "sha": "009a386121c6c61c472b1f4c707e635a8f23919d",
+        "name": "project-compliance",
+        "description": "Legal compliance enforcement for LGPD, LAI, Marco Civil da Internet, and security standards. Use when handling personal data, creating privacy-related features, or configuring security.",
+        "assignment_margin": 0.205624104547732
+      },
+      {
+        "selection": "boundary",
+        "sha": "00a4301c3a4dbb92e45a4211822579504efd62b0",
+        "name": "gstack-team",
+        "description": "Multi-role виртуальная команда инженеров (CEO / Eng Manager / Designer / Reviewer / QA / Security / Release) для нетривиальных multi-file / архитектурных / pre-ship задач. Применяй когда задача явно 3+ файлов, требует архитектурного решения, нужен pre-ship аудит, или пользователь явно сказал «сделай», «собери», «ship it», «проведи аудит», «разбери проект». НЕ применять на опечатки, rename, one-shot fix, чистые вопросы, research-задачи, установку самого gstack.",
+        "assignment_margin": 0.002631851857082785
+      }
+    ]
+  },
+  {
+    "cluster": 19,
+    "contents": 219,
+    "metadata_terms": [
+      "mcp",
+      "tools",
+      "server",
+      "rube",
+      "rube mcp",
+      "composio",
+      "automation automate",
+      "mcp composio",
+      "current schemas",
+      "tools current",
+      "search tools",
+      "automation"
+    ],
+    "body_terms": [
+      "mcp",
+      "rube",
+      "server",
+      "tools",
+      "composio",
+      "tool",
+      "toolkit",
+      "search",
+      "toolkits",
+      "manage",
+      "connection",
+      "connections"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00b6d65a77304f39e67250a782aa7558805db108",
+        "name": "mcp-figma",
+        "description": "Call tools from the figma MCP server through code_execution callbacks. Available tools: mcpFigma_addCodeConnectMap, mcpFigma_createDesignSystemRules, mcpFigma_createNewFile, mcpFigma_generateDiagram, mcpFigma_getCodeConnectMap, mcpFigma_getCodeConnectSuggestions, mcpFigma_getContextForCodeConnect, mcpFigma_getDesignContext, mcpFigma_getFigjam, mcpFigma_getMetadata, mcpFigma_getScreenshot, mcpFigma_getVariableDefs, mcpFigma_sendCodeConnectMappings, mcpFigma_uploadAssets, mcpFigma_whoami. Reference skill for more information.",
+        "assignment_margin": 0.39520851551204095
+      },
+      {
+        "selection": "representative",
+        "sha": "0022110a50d67d2ac2a27b3fec4c12f9badc7204",
+        "name": "05-20-mcp-less",
+        "description": "Use MCP without installing",
+        "assignment_margin": 0.4268330376584838
+      },
+      {
+        "selection": "representative",
+        "sha": "0091de6febe65dbea717bae27c0b85abe14cb3f0",
+        "name": "Ghost MCP",
+        "description": "ghost-os 桌面 computer-use 说明书。msgcode 直接暴露 `ghost_*` 原生工具；先读外部真相源 GHOST-MCP，再按本文的本地安装、探测和失败口径执行。",
+        "assignment_margin": 0.403698211987174
+      },
+      {
+        "selection": "representative",
+        "sha": "00eab8e6766e9b48aa1bfe05173e0a6da6bd2df6",
+        "name": "using-mcp-tools-with-mcpc",
+        "description": "Use mcpc CLI to interact with MCP servers - call tools, read resources, get prompts. Use when working with Model Context Protocol servers, calling MCP tools, or accessing MCP resources programmatically; prefer key:=value bindings over raw JSON bodies.",
+        "assignment_margin": 0.3483487306684639
+      },
+      {
+        "selection": "representative",
+        "sha": "0124d4a4b980118b54f3bf177263b69127d468cb",
+        "name": "ticktick",
+        "description": "滴答清单工具：调用 TickTick MCP 同步任务，支持增量同步、优先级映射、冲突检测。 适用于日程安排完成后同步任务、即时任务创建提醒、任务状态更新等场景。",
+        "assignment_margin": 0.3982773232889232
+      },
+      {
+        "selection": "random",
+        "sha": "00aef18a36cb32caeede3c72fc7c6727a0390713",
+        "name": "roblox-mcp",
+        "description": "Roblox Studio MCP server for connecting AI agents directly to Studio — read and write scripts, explore the data model, execute Luau, run playtests, capture the viewport, and control Studio. Covers prerequisites, enabling Studio as an MCP server, quick-connect vs JSON/CLI configuration for Cursor/VS Code/Claude/Codex, every available MCP tool, combining MCP with Script Sync for a file-based workflow, multi-instance handling, and security boundaries. Use when connecting an AI coding tool to Roblox Studio.",
+        "assignment_margin": 0.20898883852775235
+      },
+      {
+        "selection": "random",
+        "sha": "0150503b2572928c71a737cdaf4220ad7444f901",
+        "name": "seqera-automation",
+        "description": "Automate Seqera tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+        "assignment_margin": 0.21139526902073172
+      },
+      {
+        "selection": "random",
+        "sha": "0135399afce7631e84526a99c0a93bb12390d82b",
+        "name": "package-registry-mcp-configuration",
+        "description": "Package Registry MCP Configuration for PDF toolkit.",
+        "assignment_margin": 0.12487346705452605
+      },
+      {
+        "selection": "random",
+        "sha": "001f15cc2b833afef0a13eeb46a8ba6f95072418",
+        "name": "cowork-ux",
+        "description": "Cowork/Code MCP UX — plain language, menus, progress loops",
+        "assignment_margin": 0.04760128223011451
+      },
+      {
+        "selection": "random",
+        "sha": "0124f275c951fc85f89518085b21ef3958af00cb",
+        "name": "microsoft-teams-automation",
+        "description": "Automate Microsoft Teams tasks via Rube MCP (Composio): send messages, manage channels, create meetings, handle chats, and search messages. Always search tools first for current schemas.",
+        "assignment_margin": 0.13757874513977272
+      },
+      {
+        "selection": "boundary",
+        "sha": "0060d5bb7cf60da7dc670173e1d092f0d28ce1a0",
+        "name": "nlm-skill",
+        "description": "Expert guide for the NotebookLM CLI (`nlm`) and MCP server - interfaces for Google NotebookLM. Use this skill when users want to interact with NotebookLM programmatically, including: creating/managing notebooks, adding sources (URLs, YouTube, text, Google Drive), generating content (podcasts, reports, quizzes, flashcards, mind maps, slides, infographics, videos, data tables), conducting research, chatting with sources, or automating NotebookLM workflows. Triggers on mentions of \"nlm\", \"notebooklm\", \"notebook lm\", \"podcast generation\", \"audio overview\", or any NotebookLM-related automation task.",
+        "assignment_margin": 0.001063076371829157
+      }
+    ]
+  },
+  {
+    "cluster": 20,
+    "contents": 213,
+    "metadata_terms": [
+      "research",
+      "deep",
+      "deep research",
+      "topic",
+      "papers",
+      "analysis",
+      "web research",
+      "literature",
+      "paper",
+      "market",
+      "sources",
+      "web"
+    ],
+    "body_terms": [
+      "research",
+      "sources",
+      "topic",
+      "paper",
+      "search",
+      "evidence",
+      "papers",
+      "deep",
+      "synthesis",
+      "citations",
+      "claim",
+      "source"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "012f98206ad3be46b37f1d7d3d8389fb7e14c291",
+        "name": "numerology",
+        "description": "Research the biblical and theological significance of a number. Use when exploring symbolic meaning, first mention, factors/multiples, gematria, or how a number interacts with other biblical metaphors and imagery.",
+        "assignment_margin": 0.5284931118001215
+      },
+      {
+        "selection": "representative",
+        "sha": "00458bbb2e880dda0a9977863af914d01021f94f",
+        "name": "research",
+        "description": "Use when the user requests research, investigation, best practices, comparisons, or evidence-backed recommendations.",
+        "assignment_margin": 0.4816245146853129
+      },
+      {
+        "selection": "representative",
+        "sha": "014a0466435f7b06eb67adc27746800524869a47",
+        "name": "tw-research-taiwan-regulation",
+        "description": "台灣學位論文規範校對工具，協助研究者確認學位論文符合教育部、 國家圖書館及各大學的格式規範。 提供封面格式（中英文）、書名頁、摘要、目次、圖表、參考書目 等各部分的規範檢查，輸出合規報告、格式修正清單與封面範本。 支援台灣主要大學（台大、師大、政大、清大、交大等）格式差異說明。 當使用者提及「學位論文格式」「論文封面」「碩論規範」「博士論文繳交」 「國家圖書館繳交」「學校論文格式」「口試後繳交」時觸發。 分類：學術研究（tw-research-*） 參考來源：國家圖書館《學位論文提交須知》、教育部《學位授予法》\n",
+        "assignment_margin": 0.4946626240013305
+      },
+      {
+        "selection": "representative",
+        "sha": "00c43ae63d45d8ef73d1fd269eeeccbaacf29565",
+        "name": "research",
+        "description": "Use for Phase 1 of the development workflow: AI deep research. Ingests human research materials from workflow/research/manual/ and performs web search, codebase analysis, and cross-referencing to produce a comprehensive research synthesis. Use when someone says 'start research', 'phase 1', 'research phase', 'deep research', or has placed materials in workflow/research/manual/.",
+        "assignment_margin": 0.43860587913662463
+      },
+      {
+        "selection": "representative",
+        "sha": "01076fdaed8b2bf3eb0863ba49ad800701acd053",
+        "name": "invest-research",
+        "description": "面向 A股投研任务的总入口 skill。用于把用户问题路由到行业研究、个股基本面、题材链/产业链分析或研究质量复核;必要时组合多个 skill,但不在总入口重复子 skill 已定义的方法论。",
+        "assignment_margin": 0.4804567652592882
+      },
+      {
+        "selection": "random",
+        "sha": "00dd171bee0ac6b4a7157033aa916c794fff76fe",
+        "name": "perplexica-search",
+        "description": "Use Perplexica for web research and external technical discovery. Trigger for web research, live external discovery, repository research, or self-hosted Perplexica search.",
+        "assignment_margin": 0.2585214628686704
+      },
+      {
+        "selection": "random",
+        "sha": "012bf8949a118d4b613ee850971f4b3b97e5e0dc",
+        "name": "tw-research-methodology-designer",
+        "description": "研究方法選擇決策樹工具，透過 10-15 個引導問題協助研究者判斷 最適合的研究典範（量化/質性/混合），並推薦具體方法論組合。 輸出：方法論選擇報告、研究設計架構圖、各方法優缺點對比、 推薦的後續 tw-research-* Skill 使用路徑。 作為「方法論決策層入口」，銜接 stat-consultant（量化）、 qualitative-analyzer（質性）、experiment-planner（實驗設計）。 當使用者提及「不知道用什麼方法」「量化還是質性」「研究方法選擇」 「methodology」「混合方法」「要怎麼設計研究」時觸發。 分類：學術研究（tw-research-*） 參考來源：agent-research-skills (research-planning + experiment-design)\n",
+        "assignment_margin": 0.405107211360488
+      },
+      {
+        "selection": "random",
+        "sha": "0037814d5a3e16b52d28b516d7660c4d7c675a63",
+        "name": "strategic-web-research",
+        "description": "Conduct in-depth, strategic web research to gather information, validate facts, and synthesize findings. Use this skill when you need comprehensive reports, market analysis, or competitive intelligence.",
+        "assignment_margin": 0.343797944023141
+      },
+      {
+        "selection": "random",
+        "sha": "01916c0a87efd97e41b5d4b659eca4efab7f47fa",
+        "name": "interview",
+        "description": "Activate for: user interview, interview guide, interview questions, discovery interview, research interview, customer interview, user research guide, interview script, how to interview users, what to ask users, interview protocol, research protocol, interview template, qualitative research, jobs to be done, JTBD, contextual inquiry, interview planning. NOT for: research synthesis from completed interviews (use official /synthesize-research), competitive analysis (use official /competitive-brief), survey design or quantitative research.\n",
+        "assignment_margin": 0.34438938640957983
+      },
+      {
+        "selection": "random",
+        "sha": "00db55a062fcf9d025e0328389ed67d68f7d6a2e",
+        "name": "draft-outreach",
+        "description": "Turn a research card into a personalized outreach draft with the `ori draft-outreach write` CLI command. Use after research-lead has produced a card — never draft outreach freehand.",
+        "assignment_margin": 0.18755977091292095
+      },
+      {
+        "selection": "boundary",
+        "sha": "00d3534f7fdfaccbc87de91e477eb6a49a55b3bb",
+        "name": "use-premium-models-efficiently",
+        "description": "Use when running a premium model (Claude Fable, Claude Opus, GPT-5.6 Sol, or similar) on codebase-heavy or token-heavy work and the user wants it to orchestrate research, coding, and testing while cheaper subagents (Sonnet, Haiku, Terra, Luna, or similar) do bounded heavy lifting.",
+        "assignment_margin": 0.0004280732367645162
+      }
+    ]
+  },
+  {
+    "cluster": 21,
+    "contents": 165,
+    "metadata_terms": [
+      "video",
+      "audio",
+      "youtube",
+      "videos",
+      "text",
+      "voice",
+      "tts",
+      "speech",
+      "image",
+      "music",
+      "content",
+      "generate"
+    ],
+    "body_terms": [
+      "video",
+      "audio",
+      "mp4",
+      "youtube",
+      "videos",
+      "mp3",
+      "ffmpeg",
+      "tts",
+      "wav",
+      "voice",
+      "music",
+      "yt"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "012bd1fcddf32576c329d31fa41bc648d04bd42a",
+        "name": "bytedance-omnihuman-v1-5",
+        "description": "Bytedance | Omnihuman v1.5. Generate human animation videos from an image and audio. Triggers: talking head, human animation, audio to video, omnihuman, avatar",
+        "assignment_margin": 0.49259824140861835
+      },
+      {
+        "selection": "representative",
+        "sha": "010f0d11c91263149c065b16333315074a4fd287",
+        "name": "video",
+        "description": "Generate videos using fal.ai (Wan, Kling) or Sora. Text-to-video and image-to-video.",
+        "assignment_margin": 0.45214624278846827
+      },
+      {
+        "selection": "representative",
+        "sha": "000b775a2d536dfcd05b19b7cad358cc41021ad3",
+        "name": "youtube-tools",
+        "description": "Free YouTube video downloading, transcript extraction, and metadata retrieval using yt-dlp. Use this skill for downloading YouTube videos (single or bulk), extracting transcripts/subtitles, getting video metadata, or downloading audio-only. This is FREE (no API keys) unlike Apify. Triggers on YouTube download requests, transcript extraction, video metadata, or bulk video downloads.",
+        "assignment_margin": 0.45283522836387574
+      },
+      {
+        "selection": "representative",
+        "sha": "001d2557bc83de4d51172676c49c88f648037270",
+        "name": "yt-dlp",
+        "description": "Download video, audio, playlists, subtitles, and metadata with yt-dlp. Use for requests to save media from YouTube, Twitch, Vimeo, SoundCloud, Twitter/X, Reddit, TikTok, and other yt-dlp-supported sites.",
+        "assignment_margin": 0.45647295897987883
+      },
+      {
+        "selection": "representative",
+        "sha": "00d19807238c7cf85091ac799becd1a540b73a8b",
+        "name": "veo",
+        "description": "Generate video using Google Veo (Veo 3.1 / Veo 3.0). Use when: creating video clips from text prompts, generating B-roll, making animated content. DON'T use when: editing existing videos (use ffmpeg/video-frames), extracting frames from video (use video-frames skill), or adding subtitles (use video-subtitles skill).",
+        "assignment_margin": 0.4506520802714665
+      },
+      {
+        "selection": "random",
+        "sha": "012795e248d58b73788a85faf3851dfa54dc4891",
+        "name": "camsnap",
+        "description": "Capture frames or clips from RTSP/ONVIF cameras.",
+        "assignment_margin": 0.25718633040258443
+      },
+      {
+        "selection": "random",
+        "sha": "012334da0f28374f339786af3fb5c71a7e7be7a0",
+        "name": "speaker-reel",
+        "description": "This skill should be used when the user asks to \"create speaker reel\", \"speaking demo video\", \"speaker sizzle reel\", \"speaking highlights\", or mentions speaker reels, demo videos, or speaking portfolios. Creates compelling speaker reels that showcase speaking ability and secure speaking opportunities.",
+        "assignment_margin": 0.3132510240496262
+      },
+      {
+        "selection": "random",
+        "sha": "013680c98b10eef43662cbcb291c3ce98d9bfe86",
+        "name": "audiocraft-audio-generation",
+        "description": "PyTorch library for audio generation including text-to-music (MusicGen) and text-to-sound (AudioGen). Use when you need to generate music from text descriptions, create sound effects, or perform melody-conditioned music generation.",
+        "assignment_margin": 0.14953500500458106
+      },
+      {
+        "selection": "random",
+        "sha": "00a08823365155597ea6a4d8aa24a9b95e4b81c0",
+        "name": "gif-maker-free",
+        "description": "Get looping GIF files ready to post, without touching a single slider. Upload your video clips or images (MP4, MOV, GIF, WebM, up to 200MB), say something like \"convert this video clip into a looping GIF\", and download 720p MP4 when it's done. Built for social media users and content creators who move fast and want to make GIFs quickly without paying for software.\n",
+        "assignment_margin": 0.3583950548813685
+      },
+      {
+        "selection": "random",
+        "sha": "00c04a9cff54509c2eae5c646e87646acc599d73",
+        "name": "youtube-video-to-article-md",
+        "description": "Fetch YouTube video transcripts and convert them into a detailed, well-structured article in Markdown. Ideal for summarizing long-form content, educational videos, or video essays.",
+        "assignment_margin": 0.35855030067906396
+      },
+      {
+        "selection": "boundary",
+        "sha": "019780ff5f293a88089af62eeab78286a31e5590",
+        "name": "contextiq-retrieval-eval",
+        "description": "Evaluates zero-shot text-to-video retrieval for contextual advertising. It probes a model's ability to rank relevant video content based on natural language queries using multimodal signals (vision, audio, captions, metadata). Use when the user wants to benchmark on Val-1, Val-2, or asks about evaluating this task. Reports P@K.",
+        "assignment_margin": 0.0046724111473118455
+      }
+    ]
+  },
+  {
+    "cluster": 22,
+    "contents": 160,
+    "metadata_terms": [
+      "es",
+      "es um",
+      "geht",
+      "liefert",
+      "um",
+      "fristen",
+      "frist",
+      "risikoampel",
+      "zuständigkeit",
+      "fristen risikoampel",
+      "liefert fristen",
+      "risikoampel sofortschritten"
+    ],
+    "body_terms": [
+      "prüfen",
+      "keine",
+      "welche",
+      "fristen",
+      "frist",
+      "normen",
+      "gericht",
+      "rechtsprechung",
+      "stelle",
+      "rolle",
+      "zuerst",
+      "datum"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "01624bfe0a41511c020fe0e61265dd12f58fcdfb",
+        "name": "steuererklaerung-ohne-vollstaendige-belege-kaltst",
+        "description": "Wenn es um Steuererklaerung Ohne Vollstaendige Belege Kaltst in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten.",
+        "assignment_margin": 0.7790046004099982
+      },
+      {
+        "selection": "representative",
+        "sha": "00a7e44803603a7290ca43cfe02fb1b60d68de85",
+        "name": "juristische-erstpruefung-und-mandatsziel",
+        "description": "Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Juristische Erstpruefung Und Mandatsziel; Arbeitsfeld: Zitierweise deutsches Recht.",
+        "assignment_margin": 0.7707942920592356
+      },
+      {
+        "selection": "representative",
+        "sha": "018ab21fe371be207aa33c21d98c3f8ba14f0120",
+        "name": "anfechtungs-risikoampel-und-gegenargumente",
+        "description": "Wenn es um Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten.",
+        "assignment_margin": 0.7594026267149185
+      },
+      {
+        "selection": "representative",
+        "sha": "015534dec58c35f6b851b52ca7f2b292adea7ebe",
+        "name": "lph-08-rechnung-und-prueffaehigkeit",
+        "description": "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft abschlag in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck.",
+        "assignment_margin": 0.7547043340957527
+      },
+      {
+        "selection": "representative",
+        "sha": "00d9a710a968346ab1a54fafb044c954d58d67f4",
+        "name": "erlaubnis-filialverbund-routing",
+        "description": "Wenn es um Erlaubnis Filialverbund Routing in Apothekenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten.",
+        "assignment_margin": 0.7418024104261578
+      },
+      {
+        "selection": "random",
+        "sha": "00a87107606cdf61647cdd64fb1e2096459a0d6c",
+        "name": "kaenguru",
+        "description": "Känguru-Modus — Persönlichkeit aus Marc-Uwe Klings Känguru-Chroniken. Aktiviere wenn der User nach dem Känguru fragt oder den Känguru-Modus will.",
+        "assignment_margin": 0.5642091621228486
+      },
+      {
+        "selection": "random",
+        "sha": "00cfa8a4111890b43bf15cac04efd029d0130632",
+        "name": "litigation-schlichtung-prozess",
+        "description": "Wenn es um Litigation Bank in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix.",
+        "assignment_margin": 0.6322481863735473
+      },
+      {
+        "selection": "random",
+        "sha": "009f2e54b5e529417d7f35eb936542d09f1034bf",
+        "name": "aussenwirtschaft-embargo-russland",
+        "description": "Wenn es um Embargo Russland: Sektoralsanktionen und Umgehungsverbote in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.",
+        "assignment_margin": 0.5150354405957734
+      },
+      {
+        "selection": "random",
+        "sha": "0194d9509453e01aa6528807a184e6adf9424838",
+        "name": "ropa-art-30-dsgvo-grundlagen",
+        "description": "Wenn es um Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.",
+        "assignment_margin": 0.46622142274956496
+      },
+      {
+        "selection": "random",
+        "sha": "01861a32424b54496e1c5b0256f7dc7ab4633ca0",
+        "name": "luft-089-luftfracht-dashboard-bauen",
+        "description": "Wenn es um Luftfracht Dashboard Bauen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.",
+        "assignment_margin": 0.49652850742743165
+      },
+      {
+        "selection": "boundary",
+        "sha": "00a9f4fba00aac824437cf68a1ee0733980e6523",
+        "name": "umweltrecht-kommandocenter",
+        "description": "Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing).",
+        "assignment_margin": 0.013286834794461515
+      }
+    ]
+  },
+  {
+    "cluster": 23,
+    "contents": 154,
+    "metadata_terms": [
+      "para",
+      "ou",
+      "com",
+      "em",
+      "quando",
+      "en",
+      "el",
+      "que",
+      "da",
+      "por",
+      "la",
+      "antes"
+    ],
+    "body_terms": [
+      "para",
+      "que",
+      "se",
+      "em",
+      "ou",
+      "por",
+      "da",
+      "não",
+      "como",
+      "la",
+      "el",
+      "antes"
+    ],
+    "examples": [
+      {
+        "selection": "representative",
+        "sha": "00886191c5f3c091cd3368903d0a5f80481838d6",
+        "name": "random_challenge_sequencer",
+        "description": "Generar secuencias aleatorias de desafíos de liveness para prevenir ataques de replay grabado",
+        "assignment_margin": 0.6760929844349426
+      },
+      {
+        "selection": "representative",
+        "sha": "005f6ad8fed769231182f9e02f5e95c2a077edef",
+        "name": "context-guardian",
+        "description": "Guardiao de contexto que preserva dados criticos antes da compactacao automatica. Snapshots, verificacao de integridade e zero perda de informacao.",
+        "assignment_margin": 0.655831476042055
+      },
+      {
+        "selection": "representative",
+        "sha": "0087db66c05c3274d9bb18bbb636a3818f0fd7c6",
+        "name": "replica-rmc",
+        "description": "Gera réplica à contestação em ações de RMC/RCC (Reserva de Margem Consignável / Cartão Consignado) de forma autônoma. Use quando o usuário pedir réplica de RMC, réplica de RCC, réplica de cartão consignado, réplica bancária sobre margem consignável, ou quando jogar pasta de processo RMC/RCC para análise. Não usar para apelações (existe skill separada).",
+        "assignment_margin": 0.6600360721191524
+      },
+      {
+        "selection": "representative",
+        "sha": "01784c9b973147e135ce2499c249fb03596644e2",
+        "name": "agendar-reuniao",
+        "description": "Ajuda a coletar dados para agendar reunião ou retorno comercial.",
+        "assignment_margin": 0.661681205574691
+      },
+      {
+        "selection": "representative",
+        "sha": "00d4f0e602076f40336486c1a7df8a0d6a53b52c",
+        "name": "geral-contexto-cliente",
+        "description": "Puxa, registra e sincroniza fatos exatos do cliente (tom de voz, histórico, oferta) no Supabase pra alimentar o trabalho do agente. Use SEMPRE que for trabalhar em qualquer tarefa para um cliente — o agente DEVE puxar o contexto automaticamente antes de começar. Também use quando o usuário mencionar 'contexto do cliente', 'fatos do cliente', 'tom de voz', 'quem é o cliente', 'histórico com o cliente', 'antes de começar puxa o contexto', 'cliente X', ou quiser consultar/atualizar dados do cliente.",
+        "assignment_margin": 0.652898020835524
+      },
+      {
+        "selection": "random",
+        "sha": "013290c2d6f6cc7fa2ee92735d41fb4ffa3af506",
+        "name": "cred-omega",
+        "description": "CISO operacional enterprise para gestao total de credenciais e segredos.",
+        "assignment_margin": 0.5940647711696063
+      },
+      {
+        "selection": "random",
+        "sha": "01952bba6a421c1b49e9203f00f708153cf8f46c",
+        "name": "image_base64",
+        "description": "Conversione tra file immagine e stringhe base64. Usa questa skill quando l'utente chiede di trasformare un'immagine in base64, generare una data URI, oppure ricreare/salvare un'immagine partendo da una stringa base64.",
+        "assignment_margin": 0.08101343157432148
+      },
+      {
+        "selection": "random",
+        "sha": "0153a9b735c7d62f523011ff26e89e1ebae3763a",
+        "name": "stnl_project_context",
+        "description": "Levanta contexto factual do projeto e materializa ou ressincroniza docs em docs/core, docs/units e docs/features com modos BOOTSTRAP, RESYNC e TBD_SYNC.",
+        "assignment_margin": 0.14923927480796562
+      },
+      {
+        "selection": "random",
+        "sha": "006dc15018559d0c1b7294f7d562691b8ad73208",
+        "name": "guardiao-politica",
+        "description": "Gate obrigatorio antes da aprovacao humana. Aplica linhas vermelhas de conduta, checa fatos e citacoes, e impoe o estilo. Nada e publicado sem passar por aqui. Vale para a marca faceless e para o perfil pessoal.",
+        "assignment_margin": 0.6486534375043532
+      },
+      {
+        "selection": "random",
+        "sha": "01ad0c6785c64425103e7367947040d980ad7dcf",
+        "name": "pre-adr-introspect",
+        "description": "ATIVAR ANTES de qualquer Write em `memory/decisions/NNNN-*.md` (ADR nova) OU antes de propor schema novo (`database/migrations/*.php` que adiciona col em tabela existente) OU antes de propor pattern arquitetural (endpoint, middleware, service genérico). Força introspecção do projeto pra detectar patterns canon já estabelecidos (git grep ADRs/migrations/Controllers + diagnóstico prod se ADR depende de estado DB). Previne 80% dos erros de retrabalho mesmo-dia documentados em sessão 2026-05-27 (3 ADRs erratas + 1 RUNBOOK histórico + 2 CI fails Append-only canon). Lição arquitetural ADR 0200 §Lição operacionalizada.",
+        "assignment_margin": 0.3598144015232582
+      },
+      {
+        "selection": "boundary",
+        "sha": "010ff2b48e4552939c0ba94e8be271f28fade61c",
+        "name": "cfo-cashflow",
+        "description": "基于 CEO 提供的数据计算跑道、预测现金流趋势",
+        "assignment_margin": 0.007076991213683114
+      }
+    ]
+  }
+]

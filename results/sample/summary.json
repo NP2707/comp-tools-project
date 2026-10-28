@@ -1,0 +1,94 @@
+{
+  "created_utc": "2026-10-28T14:10:20.068494+00:00",
+  "config": {
+    "database": "/home/npk2707/Projects/school/Comp tools project/data/raw/agent_skills_sample.db",
+    "output": "results/sample",
+    "limit": 0,
+    "seed": 42,
+    "shingle_size": 5,
+    "min_tokens": 30,
+    "threshold": 0.8,
+    "bands": 32,
+    "rows": 4,
+    "max_candidates": 2000000,
+    "eval_size": 1000,
+    "lsa_components": 64,
+    "lsa_neighbors": 5,
+    "lsa_threshold": 0.8,
+    "include_nonstandard": false,
+    "keep_frontmatter": false,
+    "skip_lsa": false
+  },
+  "database_sha256": "683888c923a51952fb66f83f21351ed5bf1127ddddf380e517592ae27c367658",
+  "source_sha256": {
+    "gitskills/__init__.py": "952a0654670ebcad3e043248a88a2b2c5254e943d8cdef59f4c5c8df5a79301f",
+    "gitskills/__main__.py": "8249a9f04276927dea291f181a1c73ff72b3546fe903cd3f05eaeadbec725379",
+    "gitskills/corpus.py": "0cafdcb165a0b2d88409b02a6cca9581c615aada91a65583ce3a46f5cff211da",
+    "gitskills/experiments.py": "356d51c498aeece356ac571df1a1eb9b4a019cb34c46b14e379c0242e5067ce2",
+    "gitskills/similarity.py": "04bc3037c158de2ddca56e27a6a5ae283abb85ec8c1d02757d1099a48b453148"
+  },
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "networkx": "3.7",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "corpus": {
+    "occurrences": 29786,
+    "distinct_contents": 13000,
+    "representatives": 13000,
+    "excluded_metadata": 1784,
+    "excluded_short": 201,
+    "excluded_missing_text": 0,
+    "eligible_contents": 11015,
+    "selected_contents": 11015,
+    "selected_occurrences": 26713
+  },
+  "candidates": 3512,
+  "possible_pairs": 60659605,
+  "exact_duplicate_occurrences": 15698,
+  "graph": {
+    "nodes": 11015,
+    "edges": 649,
+    "isolates": 10653,
+    "communities": 10793,
+    "nontrivial_communities": 140,
+    "largest_community": 25,
+    "connected_components": 10793,
+    "modularity": 0.7579213948789987
+  },
+  "lsa": {
+    "status": "complete",
+    "features": 30000,
+    "components": 64,
+    "explained_variance_ratio": 0.13931742310523987,
+    "neighbors": 5,
+    "cosine_threshold": 0.8,
+    "pairs": 33723,
+    "overlap_with_lexical_pairs": 404,
+    "lsa_only_pairs": 33319
+  },
+  "timings_seconds": {
+    "load_and_shingle": 3.6199784689997614,
+    "minhash": 8.015816768999684,
+    "lsh_candidates": 1.4236141609999322,
+    "exact_verification": 0.060493231999771524,
+    "evaluation": 2.327740477000134,
+    "graph": 7.592112439000175,
+    "lsa": 2.7913944150000134,
+    "plots": 1.0281808869999622,
+    "total": 26.96252448300038
+  },
+  "peak_process_rss_mib": 2416.58203125,
+  "limitations": [
+    "Descriptive sample results; no population-level reuse or causal claims.",
+    "Graph edges certify lexical similarity, not copying or common purpose.",
+    "LSH can miss pairs; recall is measured on an independent document subset.",
+    "Exact Jaccard precision is definitional; human review remains unfilled.",
+    "LSA uses the full selected corpus for exploratory fitting; no held-out quality claim.",
+    "Peak RSS includes evaluation, graph sweeps, LSA and plotting; timings are one run."
+  ]
+}

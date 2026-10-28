@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "pytest": "15 passed",
+    "reproduction": "All five generated audit files match byte for byte",
+    "html": "36 evidence entries; local report links resolve; no JavaScript in audit report",
+    "provenance": "Audit source and three input hashes match the recorded run"
+  },
+  "reproduction_sha256": {
+    "pair_diagnostics.csv": "26f6e5175c87d59b01646b31f9b9e11dcb72da45bb7dd0329c60c58f3aaa806a",
+    "family_diagnostics.csv": "9cc9d4041c3fad3d061e105073a80ca46c62e5bdfd206299a7f04fd3d680d6ee",
+    "evidence_packets.json": "1c3f25b45e298b6850324d57a5e716ab021cc10d63f520d96898f8613c255b70",
+    "human_review.csv": "ae92e394454e9d5374c6d37bc80feb3988adac2b042e139809d95c4913d2303f",
+    "summary.json": "478bb7d6348649d8d7fb3110e0a2e041b9939e3fef6c28058971be5d6d2662f3"
+  },
+  "limits": "HTML was structurally checked; no browser visual test. Static assessments are not human validated or execution tested."
+}

@@ -1,0 +1,49 @@
+{
+  "created_utc": "2026-10-28T14:44:42.940877+00:00",
+  "config": {
+    "database": "/home/npk2707/Projects/school/Comp tools project/data/raw/agent_skills_sample.db",
+    "output": "results/purpose",
+    "clusters": 24,
+    "seed": 42,
+    "metadata_weight": 0.85
+  },
+  "corpus": {
+    "occurrences": 29786,
+    "distinct_contents": 13000,
+    "representatives": 13000,
+    "excluded_metadata": 1784,
+    "excluded_short": 201,
+    "excluded_missing_text": 0,
+    "eligible_contents": 11015,
+    "selected_contents": 11015,
+    "selected_occurrences": 26713
+  },
+  "features": [
+    17352,
+    30000
+  ],
+  "svd_explained_variance_ratio": 0.14075314136914124,
+  "zero_feature_documents": 0,
+  "low_margin_fraction": 0.4224239673172946,
+  "reuse_comparison": {
+    "families": 140,
+    "families_spanning_purposes": 14,
+    "similarity_pairs": 649,
+    "similarity_pairs_crossing_purposes": 275
+  },
+  "database_sha256": "683888c923a51952fb66f83f21351ed5bf1127ddddf380e517592ae27c367658",
+  "source_sha256": {
+    "gitskills/purpose.py": "7811bafd1efc5c883d31ff9ae2740d114c2b1d2a02240612470f6720c2e6f47a",
+    "gitskills/corpus.py": "0cafdcb165a0b2d88409b02a6cca9581c615aada91a65583ce3a46f5cff211da",
+    "gitskills/__main__.py": "d7cf2365e7041dcefd3a1341d97422aa04d3d49503e3503061118fc434c237ce"
+  },
+  "runtime_seconds": 21.438025313000253,
+  "label_status": "Automatic terms and evidence only; interpretive names added separately.",
+  "limitations": [
+    "24 is an inspection granularity, not a discovered number of true purposes.",
+    "Centroid scores and margins are geometric diagnostics, not calibrated probabilities.",
+    "Language, toolkit names and templates can dominate lexical topics.",
+    "A single label per skill cannot capture all purposes; no gold labels are available.",
+    "Partition alignment is for comparison and does not validate individual assignments."
+  ]
+}

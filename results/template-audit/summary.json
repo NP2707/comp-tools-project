@@ -1,0 +1,60 @@
+{
+  "pair_count": 649,
+  "family_count": 140,
+  "cross_cluster_pairs": 275,
+  "cross_cluster_families": 14,
+  "dominant_family": {
+    "family": 0,
+    "contents": 25,
+    "edges": 300,
+    "cross_cluster_edges": 255,
+    "identical_title_free_edges": 300,
+    "distinct_title_free_bodies": 1,
+    "distinct_names": 25,
+    "distinct_descriptions": 25,
+    "names": "virtual-classroom-design | ai-batch-processing | lease-commercial | incident-management-ops | vehicle-lifecycle-management | cash-on-cash-calculator | learning-path-creator | salary-cap-analyzer | contract-lifecycle-manager | beauty-influencer-kit | llm-latency-optimizer | pet-sitting-guide | emergency-management-plan | dns-architecture | aws-well-architected | faq-writer | dairy-operations | seller-presentation | music-merch-plan | commercial-photography-brief | startup-board-management | logistics-cost-analysis | real-estate-brokerage-plan | ai-use-case-prioritizer | family-tradition-builder"
+  },
+  "dominant_share_of_cross_cluster_pairs": 0.9272727272727272,
+  "excluding_dominant": {
+    "pairs": 349,
+    "cross_cluster_pairs": 20
+  },
+  "same_name_cross_cluster_pairs": 7,
+  "same_description_cross_cluster_pairs": 0,
+  "identical_title_free_body_pairs": 355,
+  "review_families": 36,
+  "random_control_families": [
+    137,
+    88,
+    80,
+    97,
+    101,
+    83,
+    130,
+    6,
+    96,
+    31,
+    5,
+    72,
+    78,
+    22,
+    116,
+    38,
+    1,
+    66,
+    33,
+    85
+  ],
+  "database_sha256": "683888c923a51952fb66f83f21351ed5bf1127ddddf380e517592ae27c367658",
+  "source_sha256": {
+    "gitskills/template_audit.py": "8a55bb73dc4a5b96157e938a0ba8a5eafb46c6094ccb9a6ef4e18c3587af3fca"
+  },
+  "input_sha256": {
+    "results/sample-4000/nodes.csv": "f8ce0c450e4aa65bed29552c7cb65edbaa6d95eb64e05a23b959830791d875d3",
+    "results/sample-4000/edges.csv": "efa6686691c6f9ce45dd98d7d25a2684c3869cb9cd8dc75179f267a6a363abd8",
+    "results/purpose/assignments_labeled.csv": "22890113e447442b540ff298f0de4775758d11db9a5cb4cf4141cb6ee4ab9979"
+  },
+  "scope": "Static declared-purpose and instruction-content audit; no runtime functionality evaluated.",
+  "normalization": "Remove leading YAML and first Markdown H1, then Unicode NFKC, casefold and whitespace collapse. Remaining instructions are preserved.",
+  "review_status": "Evidence sampled; human reviewer fields intentionally blank."
+}

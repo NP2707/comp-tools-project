@@ -1,0 +1,25 @@
+cluster,contents,occurrences,mean_centroid_cosine,low_margin_fraction,top_terms
+0,1800,3849,0.3064619672695552,0.7966666666666666,content | capability | files | pdf | markdown | html | gsd | specialized | report | create | image | concepts
+1,719,2680,0.4524729875762259,0.4756606397774687,patterns | react | typescript | js | app | components | building | type | state | vue | handling | implementing
+2,662,1527,0.43384071280863024,0.5981873111782477,search | cli | web | email | browser | manage | send | list | google | slack | read | calendar
+3,634,1823,0.4307737334720321,0.4952681388012618,deploy | deployment | setup | ci | docker | cloud | aws | environment | service | cd | azure | ci cd
+4,617,1462,0.5157905699306096,0.42625607779578606,strategy | product | market | risk | positioning | marketing | business | pricing | customer | sales | decision | strategic
+5,586,1274,0.48157042976352504,0.40784982935153585,plan | spec | implementation | feature | requirements | plans | planning | design | specs | criteria | change | work
+6,576,1261,0.45644597179565494,0.5399305555555556,project | docs | documentation | md | update | new | codebase | repo | doc | structure | repository | readme
+7,458,1098,0.5102964885314216,0.4170305676855895,code | claude | claude code | code quality | quality | refactoring | coding | writing | clean | standards | reviewing | codebase
+8,448,1007,0.5011264486437838,0.38392857142857145,model | analysis | models | eval | training | learning | benchmark | asks evaluating | evaluating reports | ms | wants benchmark | llm
+9,424,969,0.5241608281866156,0.22169811320754718,commit | git | pr | release | branch | commits | push | merge | changes | conventional | pull | github
+10,407,1071,0.5953073301476058,0.21375921375921375,design | ui | ux | components | visual | component | frontend | css | accessibility | ui ux | responsive | tailwind
+11,399,971,0.5730200722044356,0.23057644110275688,data | integration manage | wants interact | interact | integration | manage | analysis | data records | manage data | automate wants | records automate | records
+12,398,912,0.5866017843951263,0.23366834170854273,agent | agents | multi agent | multi | agent agent | team | tool | parallel | agent teams | protocol | agent team | teams
+13,390,778,0.6059426323835313,0.2230769230769231,review | code review | code | pr | pr review | reviewer | reviews | review pr | review review | pull | changes | review code
+14,363,821,0.575894125345116,0.21487603305785125,test | tests | testing | coverage | unit | e2e | run | tdd | qa | pytest | green | red
+15,354,830,0.6010690584290277,0.2824858757062147,api | rest | openapi | endpoints | apis | rest api | endpoint | integration | api key | key | graphql | api integration
+16,327,675,0.5790371623724031,0.2691131498470948,ai | ai agents | agents | prompt | powered | ai powered | llm | agent | image | ai agent | ai generated | text
+17,314,837,0.5079922351918381,0.35668789808917195,performance | fix | debugging | issues | debug | errors | root | optimization | root cause | cause | error | diagnose
+18,228,796,0.648554157009767,0.19736842105263158,security | audit | threat | security audit | owasp | vulnerabilities | vulnerability | security review | scan | hardening | compliance | secrets
+19,219,887,0.5939011088157143,0.182648401826484,mcp | tools | server | rube | rube mcp | composio | automation automate | mcp composio | current schemas | tools current | search tools | automation
+20,213,349,0.6639300285063462,0.1643192488262911,research | deep | deep research | topic | papers | analysis | web research | literature | paper | market | sources | web
+21,165,340,0.6604135999803855,0.15757575757575756,video | audio | youtube | videos | text | voice | tts | speech | image | music | content | generate
+22,160,160,0.800150138012689,0.01875,es | es um | geht | liefert | um | fristen | frist | risikoampel | zuständigkeit | fristen risikoampel | liefert fristen | risikoampel sofortschritten
+23,154,336,0.7443347236849787,0.07142857142857142,para | ou | com | em | quando | en | el | que | da | por | la | antes

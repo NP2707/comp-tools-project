@@ -1,0 +1,170 @@
+[
+  {
+    "cluster": 0,
+    "purpose": "Mixed purposes / multilingual residual",
+    "assessment": "unresolved",
+    "interpretation": "No defensible single purpose: examples span knowledge bases, therapy procedures, screenwriting, patents, and skill maintenance. The lexical representation struggles with non-English and sparse descriptions.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 1,
+    "purpose": "Application development and framework patterns",
+    "assessment": "broad",
+    "interpretation": "Implement applications and reusable components using web frameworks, typed languages, SDKs and platform-specific patterns; also includes mobile and lower-level programming.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 2,
+    "purpose": "Operating apps, messaging and personal tools",
+    "assessment": "broad",
+    "interpretation": "Search, read, send, schedule or manage information through applications, desktop interfaces and CLIs. The operation pattern is shared, while business domains differ.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 3,
+    "purpose": "Deployment, cloud infrastructure and operations",
+    "assessment": "broad",
+    "interpretation": "Provision, deploy, configure and operate services and infrastructure, including containers, cloud platforms, CI/CD and operational checks.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 4,
+    "purpose": "Business strategy, sales and finance",
+    "assessment": "broad",
+    "interpretation": "Support commercial decisions, product positioning, negotiation, pricing, investment and financial structuring. A broad collection with outliers, not a single workflow.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 5,
+    "purpose": "Requirements, specifications and implementation planning",
+    "assessment": "focused",
+    "interpretation": "Translate requests or specifications into scoped work, acceptance criteria and executable implementation plans. Generic planning vocabulary also attracts occasional non-software plans.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 6,
+    "purpose": "Project documentation and repository setup",
+    "assessment": "broad",
+    "interpretation": "Create or maintain project documentation, repository structure, configuration and scaffolding; includes skill installation and adaptation.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 7,
+    "purpose": "Code understanding, quality and refactoring",
+    "assessment": "broad",
+    "interpretation": "Explain, locate, audit, model or simplify existing code and apply coding standards. Distinct from the more explicit PR-review group, but boundaries overlap.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 8,
+    "purpose": "Machine learning and scientific analysis",
+    "assessment": "broad",
+    "interpretation": "Train, evaluate or optimize models and perform quantitative or scientific analyses, including bioinformatics and specialized research computations.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 9,
+    "purpose": "Git, commits, pull requests and releases",
+    "assessment": "focused",
+    "interpretation": "Manage version-control workflows, commit messages, branches, merges, pull requests and release integration.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 10,
+    "purpose": "UI/UX design and design systems",
+    "assessment": "focused",
+    "interpretation": "Design and implement interface appearance, components, typography, spacing, themes, responsive behavior and interaction patterns.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 11,
+    "purpose": "Data management, databases and pipelines",
+    "assessment": "broad",
+    "interpretation": "Acquire, transform, model or govern data through databases, integrations and pipelines. Includes some compliance and data-protection material.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 12,
+    "purpose": "Agent orchestration and agent operations",
+    "assessment": "broad",
+    "interpretation": "Coordinate, evaluate, supervise or troubleshoot agents and their handoffs. Some uses of the word agent refer to other domains.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 13,
+    "purpose": "Code and pull-request review",
+    "assessment": "focused",
+    "interpretation": "Review implementations or changes, prioritize findings, and respond to reviewer feedback across languages and platforms.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 14,
+    "purpose": "Testing, QA and test automation",
+    "assessment": "focused",
+    "interpretation": "Generate or execute tests, assess coverage, apply TDD and validate software behavior. Some test fixtures are included alongside substantive testing skills.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 15,
+    "purpose": "API design, integration and gateways",
+    "assessment": "broad",
+    "interpretation": "Design or consume APIs, generate contracts, configure authentication/gateways and integrate external services across many domains.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 16,
+    "purpose": "AI-assisted workflows and generation",
+    "assessment": "mixed",
+    "interpretation": "Examples span generative media, prompt/behavior control, AI literacy, rewriting and assisted business tasks. AI is a shared mechanism rather than one coherent purpose.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 17,
+    "purpose": "Debugging, troubleshooting and performance",
+    "assessment": "focused",
+    "interpretation": "Diagnose errors and regressions, identify root causes, profile bottlenecks and implement or verify fixes.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 18,
+    "purpose": "Security assessment and hardening",
+    "assessment": "focused",
+    "interpretation": "Assess vulnerabilities, review security posture, scan configurations/secrets and plan remediation or protective controls.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 19,
+    "purpose": "MCP-based integrations and automation",
+    "assessment": "broad",
+    "interpretation": "Build or use MCP servers and tool integrations to automate operations in external applications. This is primarily a mechanism category, not a single end-user purpose.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 20,
+    "purpose": "Research, discovery and evidence synthesis",
+    "assessment": "broad",
+    "interpretation": "Gather sources, investigate questions, compare options, design research and synthesize findings; spans scholarly, market and technical research.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 21,
+    "purpose": "Video, audio and media processing",
+    "assessment": "focused",
+    "interpretation": "Generate, download, transform, transcribe or summarize audio/video and related media assets.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 22,
+    "purpose": "German legal, regulatory and professional workflows",
+    "assessment": "language-influenced",
+    "interpretation": "Mostly German legal/regulatory triage, deadlines, evidence and drafting, with shared templates. German language and repeated phrasing contribute to this grouping; not every member is legal.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  },
+  {
+    "cluster": 23,
+    "purpose": "Romance-language mixed purposes",
+    "assessment": "unresolved",
+    "interpretation": "Mostly Portuguese/Spanish, with other languages, spanning credential management, legal drafting, scheduling, project context and image conversion. Language is more coherent than task purpose.",
+    "label_source": "Assistant interpretation of cluster terms and sampled names/descriptions; not a human-validated label."
+  }
+]
